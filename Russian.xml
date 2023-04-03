@@ -1,0 +1,2562 @@
+<Table>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ ▼ Уведомления ▼ ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+<Meta Author="GRES98STOR (08.03.2023)"/>
+
+Приветствие -> Страница 1
+<Translation Original="Welcome" Replace="Добро пожаловать!"/>
+<Translation Original="Thank you for using Rampage! Please read this quick info on how to use it." Replace="Ознакомьтесь с управлением в меню трейнера:"/>
+<Translation Original="~r~[~s~ F4 ~r~]~s~ / ~r~[ ~s~RB + A ~r~]~s~ - Open Trainer" Replace="~r~[~s~ F4 ~r~]~s~ | ~r~[ ~s~RB + A ~r~]~s~ - Открыть трейнер"/>
+<Translation Original="~r~[~s~ Numpad 5 / Return / A ~r~]~s~ - Select / Enter" Replace="~r~[~s~ NumPad 5 | Return | A ~r~]~s~ - Выбрать / Вернуться"/>
+<Translation Original="~r~[~s~ Numpad 0 / Delete / B ~r~]~s~ - Back / Cancel" Replace="~r~[~s~ NumPad 0 | Delete | B ~r~]~s~ - Назад / Отмена"/>
+<Translation Original="~r~[~s~ Numpad 8 / Arrow Up / DPad Up ~r~]~s~ - Navigate Up" Replace="~r~[~s~ NumPad 8 | Arrow Up | DPad Up ~r~]~s~ - Навигация вверх"/>
+<Translation Original="~r~[~s~ Numpad 2 / Arrow Down / DPad Down ~r~]~s~ - Navigate Down" Replace="~r~[~s~ NumPad 2 | Arrow Down | DPad Down ~r~]~s~ - Навигация вниз"/>
+<Translation Original="~r~[~s~ Numpad 4 / Arrow Left / DPad Left ~r~]~s~ - Navigate Left on value options" Replace="~r~[~s~ NumPad 4 | Arrow Left | DPad Left ~r~]~s~ - Навигация влево"/>
+<Translation Original="~r~[~s~ Numpad 6 / Arrow Right / DPad Right ~r~]~s~ - Navigate Right on value options" Replace="~r~[~s~ NumPad 6 | Arrow Right | DPad Right ~r~]~s~ - Навигация вправо"/>
+<Translation Original="If you have any questions consider to look into the README file before asking." Replace="Если у вас есть вопросы то загляните в файл Readme"/>
+<Translation Original="(i) Press Numpad 5 / Return / A to Continue" Replace="Нажмите Enter чтобы перейти на следуйщую страницу"/>
+<Translation Original="Continue" Replace="Продолжить"/>
+
+Приветствие -> Страница 2
+<Translation Original="Terms of Service" Replace="Условия использования"/>
+<Translation Original="These are the conditions. Please take time to read this before accepting!" Replace="Пожалуйста, найдите время, чтобы прочитать это:"/>
+<Translation Original="(i) By pressing Accept you agree to our ToS. [ Numpad 5 / Return / A ]" Replace="Нажимая «Принять», вы соглашаетесь с нашими условиями"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ ▼ Заголовки разделов ▼ ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+<Translation Original="HOME" Replace="ГЛАВНОЕ МЕНЮ"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ ПЕРСОНАЖ ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+<Translation Original="PLAYER" Replace="ПЕРСОНАЖ"/>
+
+<Translation Original="WARDROBE" Replace="ОДЕЖДА ПЕРСОНАЖА"/>
+<Translation Original="OUTFIT LOADER" Replace="ЗАГРУЗИТЬ | СОХРАНИТЬ"/>
+<Translation Original="MODEL CHANGER" Replace="ИЗМЕНИТЬ МОДЕЛЬ"/>
+<Translation Original="ADDON PEDS LOADER" Replace="ADDON PEDS LOADER"/>
+
+-----(МОДЕЛИ ПЕРСОНАЖА)----------------------------------------------------------------
+
+<Translation Original="PLAYER" Replace="ПЕРСОНАЖ"/> 
+<Translation Original="ANIMAL" Replace="ЖИВОТНЫЕ"/> 
+<Translation Original="AMBIENT FEMALE" Replace="ПЕШЕХОДЫ ЖЕНЩИНЫ"/> 
+<Translation Original="AMBIENT MALE" Replace="ПЕШЕХОДЫ МУЖЧИНЫ"/>
+<Translation Original="CUTSCENE" Replace="КАТ СЦЕНЫ"/>
+<Translation Original="GANG FEMALE" Replace="ЖЕНЩИНЫ БАНДИТЫ"/> 
+<Translation Original="GANG MALE" Replace="МУЖЧИНЫ БАНДИТЫ"/>
+<Translation Original="STORY" Replace="СЮЖЕТНЫЙ РЕЖИМ"/>
+<Translation Original="MULTIPLAYER" Replace="МУЛЬТИПЛЕЕР"/> 
+<Translation Original="SCENARIO FEMALE" Replace="ЖЕНЩИНЫ ИЗ ДЕМО"/> 
+<Translation Original="SCENARIO MALE" Replace="МУЖЧИНЫ ИЗ ДЕМО"/>
+<Translation Original="STORY SCENARIO FEMALE" Replace="ЖЕНЩИНЫ ИЗ СЮЖЕТНОГО ДЕМО"/> 
+<Translation Original="STORY SCENARIO MALE" Replace="МУЖЧИНЫ ИЗ СЮЖЕТНОГО ДЕМО"/>
+<Translation Original="OTHERS" Replace="ДРУГИЕ"/>
+
+---------------------------------------------------------------------------------------
+
+<Translation Original="DAMAGE PACKS" Replace="СПРАЙТЫ ПОВРЕЖДЕНИЙ"/>
+
+-----(ОДЕЖДА)----------------------------------------------------------------------------------------------
+
+<Translation Original="HEAD" Replace="ГОЛОВА"/>
+<Translation Original="BEARD/MASKS" Replace="БОРОДА | МАСКИ"/>
+<Translation Original="HAIR" Replace="ПРИЧЕСКИ"/>
+<Translation Original="TORSO" Replace="ТОРС"/>
+<Translation Original="LEGS" Replace="НОГИ"/>
+<Translation Original="HANDS/BACK" Replace="РУКИ | ЗАД"/>
+<Translation Original="SHOES" Replace="ОБУВЬ"/>
+<Translation Original="TEETH/SCARF/NECKLACE/BRACELETS" Replace="ЗУБЫ | ШАРФ | ОЖЕРЕЛЬЕ | БРАСЛЕТЫ"/>
+<Translation Original="ACCESSORY/TOPS" Replace="СПЕЦИАЛЬНАЯ | ТОПЫ"/>
+<Translation Original="ARMOR DRAW" Replace="НАРИСОВАННАЯ БРОНЯ"/>
+<Translation Original="EMBLEMS" Replace="ЭМБЛЕМЫ"/>
+<Translation Original="TOPS" Replace="ВЕРХ"/>
+
+-----(АККСЕСУАРЫ)------------------------------------------------------------------------------------------ 
+
+<Translation Original="HATS" Replace="ШЛЯПЫ"/>
+<Translation Original="GLASSES" Replace="ОЧКИ"/>
+<Translation Original="EAR PIECES" Replace="СЕРЬГИ"/>
+<Translation Original="WATCHES" Replace="ЧАСЫ"/>
+<Translation Original="BANGLES" Replace="БРАСЛЕТЫ"/>
+
+-----------------------------------------------------------------------------------------------------------
+
+<Translation Original="WALK STYLES" Replace="СТИЛЬ ПОХОДКИ ПЕРСОНАЖА"/>
+<Translation Original="VISION" Replace="ФИЛЬТР ДЛЯ КАМЕРЫ"/>
+<Translation Original="ANIMPOST FX" Replace="ANIMPOST FX"/>
+<Translation Original="TIMECYCLE MODIFIERS" Replace="МОДИФИКАЦИЯ ТАЙМЦИКЛОВ"/>
+<Translation Original="MOODS" Replace="НАСТРОЕНИЕ ПЕРСОНАЖА"/>
+<Translation Original="ANIMATIONS" Replace="АНИМАЦИИ ПЕРСОНАЖА"/>
+<Translation Original="ANIMATION DICTIONARIES" Replace="СПИСОК АНИМАЦИЙ"/>
+<Translation Original="SCENARIOS" Replace="СЦЕНАРИИ ДЛЯ ПЕРСОНАЖА"/>
+<Translation Original="ALL SCENARIOS" Replace="ВСЕ СЦЕНАРИИ"/>
+<Translation Original="EFFECTS" Replace="ЭФФЕКТЫ ПЕРСОНАЖА"/>
+<Translation Original="PLAYER PROOFS" Replace="НЕУЯЗВИМОСТЬ ПЕРСОНАЖА"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ ОРУЖИЕ ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+<Translation Original="WEAPONS" Replace="ОРУЖИЕ"/>
+
+<Translation Original="MANAGE WEAPONS" Replace="УПРАВЛЕНИЕ ОРУЖИЕМ"/>
+<Translation Original="WEAPON CAMO" Replace="КАМУФЛЯЖ ОРУЖИЯ"/>
+<Translation Original="WEAPON LOADOUTS" Replace="РАСКЛАДКИ ОРУЖИЯ"/>
+<Translation Original="WEAPON BULLETS" Replace="МОДИФИКАТОРЫ СТРЕЛЬБЫ"/>
+<Translation Original="AIMBOT" Replace="ПОМОЩЬ В ПРИЦЕЛИВАНИИ"/>
+<Translation Original="MODIFIERS" Replace="НАСТРОЙКА ОРУЖИЯ"/>
+
+
+------(ТИП ОРУЖИЯ)---------------------------------------------------------
+
+<Translation Original="MELEE" Replace="ОРУЖИЕ БЛИЖНЕГО БОЯ"/>
+<Translation Original="HANDGUNS" Replace="ПИСТОЛЕТЫ"/>
+<Translation Original="SUBMACHINE GUNS" Replace="ПИСТОЛЕТЫ-ПУЛЕМЁТЫ"/>
+<Translation Original="SHOTGUNS" Replace="ДРОБОВИКИ"/>
+<Translation Original="ASSAULT RIFLES" Replace="ШТУРМОВЫЕ ВИНТОВКИ"/>
+<Translation Original="SNIPER RIFLES" Replace="СНАЙПЕРСКИЕ ВИНТОВКИ"/>
+<Translation Original="HEAVY WEAPONS" Replace="ТЯЖЁЛОЕ ОРУЖИЕ"/>
+<Translation Original="THROWABLES" Replace="МЕТАТЕЛЬНОЕ ОРУЖИЕ"/>
+<Translation Original="MISC" Replace="РАЗНОЕ"/>
+
+---------------------------------------------------------------------------
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ ТРАНСПОРТ ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+<Translation Original="VEHICLE" Replace="ТРАНСПОРТ"/>
+
+<Translation Original="CUSTOMIZE VEHICLE" Replace="ПЕРСОНАЛИЗАЦИЯ ТРАНСПОРТА"/>
+<Translation Original="LOS SANTOS CUSTOMS" Replace="LOS SANTOS CUSTOMS"/>
+<Translation Original="RESPRAY" Replace="ОКРАСКА ТРАНСПОРТА"/>
+<Translation Original="PRIMARY" Replace="ОСНОВНОЙ ЦВЕТ"/>
+<Translation Original="SECONDARY" Replace="ДОПОЛНИТЕЛЬНЫЙ ЦВЕТ"/>
+<Translation Original="PEARLESCENT" Replace="ПЕРЛАМУТРОВЫЙ МЕТЕРИАЛ"/>
+<Translation Original="COATING" Replace="ЦВЕТ САЛОНА"/>
+<Translation Original="DASH LIGHT" Replace="ЦВЕТ ПРИБОРНОЙ ПАНЕЛИ"/>
+<Translation Original="CUSTOM PAINT" Replace="ПОЛЬЗОВАТЕЛЬСКИЙ ЦВЕТ"/>
+<Translation Original="LIVERY" Replace="ЛИВРЕИ"/>
+<Translation Original="CLASSIC" Replace="КЛАССИЧЕСКИЙ"/>
+<Translation Original="MATTE" Replace="МАТОВЫЙ"/>
+<Translation Original="METALLIC" Replace="МЕТАЛЛИК"/>
+<Translation Original="METAL" Replace="МЕТАЛЛ"/>
+<Translation Original="NEON" Replace="НЕОНОВАЯ ПОДСВЕТКА"/>
+<Translation Original="WHEELS" Replace="КОЛЁСА"/>
+<Translation Original="ARMOR" Replace="БРОНЯ"/>
+<Translation Original="BRAKES" Replace="ТОРМОЗА"/>
+<Translation Original="FRONT BUMPERS" Replace="ПЕРЕДНИЙ БАМПЕР"/>
+<Translation Original="REAR BUMPERS" Replace="ЗАДНИЙ БАМПЕР"/>
+<Translation Original="ENGINE" Replace="ДВИГАТЕЛЬ"/>
+<Translation Original="EXHAUST" Replace="ГЛУШИТЕЛЬ"/>
+<Translation Original="FENDER" Replace="КРЫЛЬЯ"/>
+<Translation Original="GRILLE" Replace="РЕШОТКА РАДИАТОРА"/>
+<Translation Original="HOOD" Replace="КАПОТ"/>
+<Translation Original="ROOF" Replace="КРЫША"/>
+<Translation Original="SKIRTS" Replace="ПОРОГИ"/>
+<Translation Original="SPOILER" Replace="СПОЙЛЕР"/>
+<Translation Original="SUSPENSION" Replace="ПОДВЕСТКА"/>
+<Translation Original="TRANSMISSION" Replace="ТРАНСМИССИЯ"/>
+<Translation Original="CHASSIS / CAGE" Replace="КАРКАС БЕЗОПАСТНОСТИ"/>
+<Translation Original="HORN" Replace="КЛАКСОН"/>
+<Translation Original="WINDOWS" Replace="ОКНА"/>
+<Translation Original="EXTRAS" Replace="ДОПОЛНИТЕЛЬНЫЙ ТЮНИНГ"/>
+<Translation Original="WHEEL TYPES" Replace="ТИП ДИСКОВ"/>
+<Translation Original="SPORT" Replace="СПОРТ"/>
+<Translation Original="MUSCLE" Replace="МАСЛКАР"/>
+<Translation Original="LOWRIDER" Replace="ЛОУРАЙДЕР"/>
+<Translation Original="OFF-ROAD" Replace="ВЕЗДЕХОД"/>
+<Translation Original="TUNER" Replace="ТЮНЕР"/>
+<Translation Original="HIGH END" Replace="ЭКСКЛЮЗИВНЫЕ"/>
+<Translation Original="BENNY'S ORIGINALS" Replace="BENNY'S ORIGINALS"/>
+<Translation Original="BENNY'S BESPOKE" Replace="ЗАКАЗНОЙ ОТ BENNY'S"/>
+<Translation Original="RACE WHEELS" Replace="ГОНОЧНЫЕ ДИСКИ"/>
+<Translation Original="STREET WHEELS" Replace="УЛИЧНЫЕ ДИСКИ"/>
+<Translation Original="TRACK WHEELS" Replace="ТРЕКОВЫЕ ДИСКИ"/>
+<Translation Original="WHEEL PAINT" Replace="ЦВЕТ ДИСКОВ"/>
+
+<Translation Original="HANDLING" Replace="ХАРАКТЕРИСТИКИ ТРАНСПОРТА"/>
+<Translation Original="ACROBATICS" Replace="АКРОБАТИКА ТРАНСПОРТА"/>
+<Translation Original="RAMP CREATOR" Replace="СОЗДАТЕЛЬ РАМПЫ"/>
+<Translation Original="SPEEDOMETER" Replace="СПИДОМЕТР"/>
+<Translation Original="CHAUFFEUR" Replace="ВОДИТЕЛЬ"/>
+<Translation Original="VEHICLE WEAPONS" Replace="ОРУЖИЕ ТРАНСПОРТА"/>
+<Translation Original="VEHICLE BLIP" Replace="МЕТКА ТРАНСПОРТА"/>
+<Translation Original="VEHICLE AI" Replace="НАЗЕМНЫЙ АВТОПИЛОТ"/>
+<Translation Original="AUTOPILOT" Replace="ВОЗДУШНЫЙ АВТОПИЛОТ"/>
+<Translation Original="VEHICLE PARTICLES" Replace="ЭФФЕКТЫ ТРАНСПОРТА"/>
+<Translation Original="DOORS" Replace="ДВЕРИ ТРАНСПОРТА"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ ТЕЛЕПОРТ ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+<Translation Original="TELEPORT" Replace="ТЕЛЕПОРТ"/>
+
+<Translation Original="CUSTOM TELEPORT" Replace="ПОЛЬЗОВАТЕЛЬСКИЕ ЛОКАЦИИ"/>
+
+-----(ЛОКАЦИИ)---------------------------------------------------------
+
+<Translation Original="STORY" Replace="СЮЖЕТНЫЙ РЕЖИМ"/>
+<Translation Original="APARTMENTS" Replace="КВАРТИРЫ"/>
+<Translation Original="SHOPS" Replace="МАГАЗИНЫ"/>
+<Translation Original="INTERIORS" Replace="ИНТЕРЬЕРЫ"/>
+<Translation Original="LANDMARKS" Replace="ДОСТОПРИМЕЧАТЕЛЬНОСТИ"/>
+<Translation Original="UNDERWATER" Replace="ПОД ВОДОЙ"/>
+<Translation Original="GLITCHED" Replace="ГЛЮКИ"/>
+<Translation Original="BLIPS" Replace="МЕТКИ"/>
+
+-----------------------------------------------------------------------
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ СПАВНЕР ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+<Translation Original="SPAWNER" Replace="СПАВНЕР"/>
+
+===================== ТРАНСПОРТ =====================
+<Translation Original="VEHICLE SPAWNER" Replace="СПАВНЕР ТРАНСПОРТА"/>
+
+<Translation Original="SPAWNER SETTINGS" Replace="НАСТРОЙКИ СПАВНЕРА"/>
+<Translation Original="PRIMARY COLOR" Replace="ОСНОВНОЙ ЦВЕТ"/>
+<Translation Original="SECONDARY COLOR" Replace="ДОПОЛНИТЕЛЬНЫЙ ЦВЕТ"/>
+<Translation Original="SEARCH VEHICLES" Replace="ПОИСК ТРАНСПОРТА"/>
+<Translation Original="OPENIV LOADER" Replace="OPENIV LOADER"/>
+<Translation Original="XML LOADER" Replace="XML ЗАГРУЗЧИК"/>
+<Translation Original="FAVORITE VEHICLES" Replace="ИЗБРАННЫЙ ТРАНСПОРТ"/>
+<Translation Original="DLC VEHICLES" Replace="DLC ТРАНСПОРТ"/>
+
+-----(КЛАССИФИКАЦИИ)-----------------------------------------------------------
+
+<Translation Original="Компакт" Replace="Компактный транспорт"/>
+<Translation Original="Седан" Replace="Седаны"/>
+<Translation Original="Внедорожник" Replace="Внедорожный транспорт"/>
+<Translation Original="Купе" Replace="Купе транспорт"/>
+<Translation Original="Маслкар" Replace="Маслкары"/>
+<Translation Original="Спорт. классика" Replace="Спортивная классика"/>
+<Translation Original="Спорткар" Replace="Спорткары"/>
+<Translation Original="Суперкар" Replace="Суперкары"/>
+<Translation Original="Мотоцикл" Replace="Мотоциклы"/>
+<Translation Original="Вездеход" Replace="Вездеходы"/>
+<Translation Original="Промышленный тр." Replace="Промышленый транспорт"/>
+<Translation Original="Служебная" Replace="Служебный транспорт"/>
+<Translation Original="Фургон" Replace="Фургоны"/>
+<Translation Original="Велосипед" Replace="Велосипеды"/>
+<Translation Original="Катер" Replace="Катера"/>
+<Translation Original="Вертолет" Replace="Вертолёты"/>
+<Translation Original="Самолет" Replace="Самолёты"/>
+<Translation Original="Сервисный тр." Replace="Сервисный транспорт"/>
+<Translation Original="Экстренная служба" Replace="Экстренная служба"/>
+<Translation Original="Военный тр." Replace="Военный транспорт"/>
+<Translation Original="Коммерческий тр." Replace="Коммерческий транспорт"/>
+<Translation Original="Поезд" Replace="Поезда"/>
+<Translation Original="Болид" Replace="Гоночные болиды"/>
+
+-------------------------------------------------------------------------------
+
+===================== ОБЪЕКТЫ =====================
+<Translation Original="OBJECT SPAWNER" Replace="СПАВНЕР ОБЪЕКТОВ"/>
+<Translation Original="CAM SETTINGS" Replace="НАСТРОЙКА КАМЕРЫ"/>
+<Translation Original="OBJECT DATABASE" Replace="БАЗА ДАННЫХ ОБЪЕКТОВ"/>
+<Translation Original="ALL OBJECTS" Replace="ВСЕ ОБЪЕКТЫ"/>
+<Translation Original="STUNT OBJECTS" Replace="ОБЪЕКТЫ ДЛЯ ТРЮКОВ"/>
+<Translation Original="SEARCH" Replace="ПОИСК ОБЪЕКТА"/>
+
+===================== ПЕШЕХОДЫ =====================
+<Translation Original="PED SPAWNER" Replace="СПАВНЕР ПЕШЕХОДОВ"/>
+
+<Translation Original="SPAWNER SETTINGS" Replace="НАСТРОЙКИ СПАВНЕРА"/>
+<Translation Original="PED DATABASE" Replace="БАЗА ДАННЫХ ПЕШЕХОДОВ"/>
+
+-----(КЛАССИФИКАЦИИ)-------------------------------------------------------------------
+
+<Translation Original="PLAYER" Replace="ПЕРСОНАЖ"/>
+<Translation Original="ANIMAL" Replace="ЖИВОТНЫЕ"/>
+<Translation Original="AMBIENT FEMALE" Replace="ПЕШЕХОДЫ ЖЕНЩИНЫ"/>
+<Translation Original="AMBIENT MALE" Replace="ПЕШЕХОДЫ МУЖЧИНЫ"/>
+<Translation Original="CUTSCENE" Replace="КАТ СЦЕНЫ"/>
+<Translation Original="GANG FEMALE" Replace="ЖЕНЩИНЫ БАНДИТЫ"/>
+<Translation Original="GANG MALE" Replace="МУЖЧИНЫ БАНДИТЫ"/>
+<Translation Original="STORY" Replace="СЮЖЕТНЫЙ РЕЖИМ"/>
+<Translation Original="MULTIPLAYER" Replace="МУЛЬТИПЛЕЕР"/>
+<Translation Original="SCENARIO FEMALE" Replace="ЖЕНЩИНЫ ИЗ ДЕМО"/>
+<Translation Original="SCENARIO MALE" Replace="МУЖЧИНЫ ИЗ ДЕМО"/>
+<Translation Original="STORY SCENARIO FEMALE" Replace="ЖЕНЩИНЫ ИЗ СЮЖЕТНОГО ДЕМО"/>
+<Translation Original="STORY SCENARIO MALE" Replace="МУЖЧИНЫ ИЗ СЮЖЕТНОГО ДЕМО"/>
+<Translation Original="OTHERS" Replace="ДРУГИЕ"/>
+
+---------------------------------------------------------------------------------------
+
+<Translation Original="SEARCH PEDS" Replace="ПОИСК ПЕШЕХОДА"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ СПУНЕР ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+<Translation Original="SPOONER" Replace="СПУНЕР"/>
+<Translation Original="MAP SPOONER" Replace="КАРТА СПУНЕР"/>
+<Translation Original="INI LOADER" Replace="INI ЗАГРУЗЧИК"/>
+<Translation Original="JSON LOADER" Replace="JSON ЗАГРУЗЧИК"/>
+<Translation Original="XML LOADER" Replace="XML ЗАГРУЗЧИК"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ МИР ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+<Translation Original="WORLD" Replace="МИР"/>
+<Translation Original="TIME" Replace="ВРЕМЯ"/>
+<Translation Original="WEATHER" Replace="ПОГОДА"/>
+<Translation Original="OCEAN" Replace="ОКЕАН"/>
+<Translation Original="GRAVITY" Replace="ГРАВИТАЦИЯ"/>
+<Translation Original="LOCAL PEDS" Replace="МЕНЕДЖЕР ПЕШЕХОДОВ"/>
+<Translation Original="LOCAL VEHICLES" Replace="МЕНЕДЖЕР ТРАНСПОРТА"/>
+<Translation Original="LOCAL OBJECTS" Replace="МЕНЕДЖЕР ОБЪЕКТОВ"/>
+<Translation Original="MODEL SWAPPING" Replace="ЗАМЕНА МОДЕЛИ"/>
+<Translation Original="MODEL SWAPPING [VEHICLES]" Replace="ЗАМЕНА МОДЕЛИ | ТРАНСПОРТ"/>
+<Translation Original="MODEL SWAPPING [PEDS]" Replace="ЗАМЕНА МОДЕЛИ | ПЕШЕХОДЫ"/>
+<Translation Original="TORNADO & BLACK HOLE" Replace="ТОРНАДО | ЧЁРНАЯ ДЫРА"/>
+<Translation Original="IPL LOADER" Replace="IPL ЗАГРУЗЧИК"/>
+<Translation Original="IPL SETS" Replace="IPL НАБОРЫ"/>
+<Translation Original="LOAD IPL SETS" Replace="ЗАГРУЗИТЬ IPL НАБОР"/>
+<Translation Original="CUSTOM IPL LIST" Replace="ПОЛЬЗОВАТЕЛЬСКИЙ IPL ЛИСТ"/>
+<Translation Original="AMBIENT LIGHT" Replace="ОКРУЖАЮЩИЙ СВЕТ"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ РАЗНОЕ ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+<Translation Original="MISCELLANEOUS" Replace="РАЗНОЕ"/>
+<Translation Original="YACHT SPAWNER" Replace="СПАВНЕР ЯХТЫ"/>
+<Translation Original="ANIMAL RIDING" Replace="ЕЗДА НА ЖИВОТНЫХ"/>
+<Translation Original="MP3 PLAYER" Replace="MP3 ПЛЕЕР"/>
+<Translation Original="GAME MUSIC" Replace="ИГРОВАЯ МУЗЫКА"/>
+<Translation Original="MOBILE TV" Replace="МОБИЛЬНЫЙ ТЕЛЕВИЗОР"/>
+<Translation Original="PLAY CUTSCENES" Replace="ПРОИГРАВАТЕЛЬ КАТ СЦЕН"/>
+<Translation Original="MOBILE RADIO" Replace="МОБИЛЬНОЕ РАДИО"/>
+<Translation Original="HUD COLOR" Replace="ПОЛЬЗОВАТЕЛЬСКИЕ ЦВЕТА ИНТЕРФЕЙСА"/>
+<Translation Original="ALL HUD ELEMENTS" Replace="ВСЕ HUD ЭЛЕМЕНТЫ"/>
+<Translation Original="OVERLAY" Replace="ОТОБРАЖЕНИЕ НАЛОЖЕНИЯ"/>
+<Translation Original="CITY CAMERAS" Replace="ГОРОДСКИЕ КАМЕРЫ"/>
+<Translation Original="TRAIN" Replace="ПОЕЗД"/>
+<Translation Original="PARTICLE MAN" Replace="ЭФФЕКТЫ ПЕРСОНАЖА"/>
+<Translation Original="FRIENDLIST" Replace="СПИСОК ДРУЗЕЙ"/>
+<Translation Original="ABOUT RAMPAGE" Replace="СВЕДЕНИЯ ОБ RAMPAGE"/>
+<Translation Original="SCRIPT MONITOR" Replace="МОНИТОРИНГ СКРИПТОВ"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ СТАТИСТИКА ПЕРСОНАЖА ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+<Translation Original="EDIT YOUR CHARACTER" Replace="СТАТИСТИКА ПЕРСОНАЖА"/>
+<Translation Original="ACHIEVEMENTS" Replace="ДОСТИЖЕНИЯ"/>
+<Translation Original="MONEY" Replace="ДЕНЬГИ"/>
+<Translation Original="STATS" Replace="СТАТИСТИКА"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ НАСТРОЙКИ ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+<Translation Original="SETTINGS" Replace="НАСТРОЙКИ"/>
+<Translation Original="TRAINER SEARCH" Replace="ПОИСК ОПЦИЙ"/>
+<Translation Original="CORE SETTINGS" Replace="ОСНОВНЫЕ НАСТРОЙКИ"/>
+<Translation Original="DEBUG" Replace="ОТЛАДКА"/>
+<Translation Original="EXTENDED UI" Replace="РАСШИРЕННЫЙ ИНТЕРФЕЙС"/>
+<Translation Original="WINDOW MANAGER" Replace="ОКОННЫЙ МЕНЕДЖЕР"/>
+<Translation Original="THEME" Replace="ТЕМЫ"/>
+<Translation Original="PREMADE THEMES" Replace="ГОТОВЫЕ ТЕМЫ"/>
+<Translation Original="PLUGIN" Replace="ПЛАГИНЫ"/>
+<Translation Original="LANGUAGE" Replace="ЯЗЫКИ"/>
+<Translation Original="HOTKEY MANAGER" Replace="МЕНЕДЖЕР ГОРЯЧИХ КЛАВИШ"/>
+<Translation Original="LOAD / SAVE" Replace="ЗАГРУЗИТЬ | СОХРАНИТЬ"/>
+
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ ▼ ОСНОВНОЙ ПЕРЕВОД ▼ ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+
+Главное меню
+<Translation Original="Player" Replace="Персонаж"/>
+<Translation Original="Options that affect your player." Replace="Опции, которые влияют на игрока"/>
+<Translation Original="Weapon" Replace="Оружие"/>
+<Translation Original="Customize all your weapons." Replace="Добавление и настройка всего оружия"/>
+<Translation Original="Customize and mod your vehicle." Replace="Настройка и модификация транспорта"/>
+<Translation Original="Teleport" Replace="Телепорт"/>
+<Translation Original="Teleport everywhere." Replace="Телепортация куда-угодно"/>
+<Translation Original="Spawner" Replace="Спавнер"/>
+<Translation Original="Spawn and manage objects." Replace="Добавление и управление объектами"/>
+<Translation Original="Spooner" Replace="Спунер"/>
+<Translation Original="Spawn maps and modded vehicles." Replace="Добавление карт и транспорта из обновлений"/>
+<Translation Original="World" Replace="Мир"/>
+<Translation Original="Control the environment." Replace="Управление окружением"/>
+<Translation Original="Miscellaneous" Replace="Разное"/>
+<Translation Original="Misc options." Replace="Остальные опции"/>
+<Translation Original="Character Stats" Replace="Статистика персонажа"/>
+<Translation Original="Edit your offline character stats." Replace="Редактирование оффлайн статистику персонажа"/>
+<Translation Original="Settings" Replace="Настройки"/>
+<Translation Original="Customize Rampage to your own like." Replace="Настройки Rampage"/>
+
+Главное меню -> Персонаж
+<Translation Original="Wardrobe" Replace="Одежда персонажа"/>
+<Translation Original="Change your current outfit." Replace="Изменить текущую одежду персонажа"/>
+<Translation Original="Walk Style" Replace="Стиль походки"/>
+<Translation Original="Change your current walk style." Replace="Изменить стиль походки текущего персонажа"/>
+<Translation Original="Vision" Replace="Фильтры камеры"/>
+<Translation Original="Change your vision." Replace="Установить фильтр наложения для камеры"/>
+<Translation Original="Moods" Replace="Настроение"/>
+<Translation Original="Change your facial expression." Replace="Изменить эмоцию на лице"/>
+<Translation Original="Animate your player model." Replace="Анимировать текущего персонажа"/>
+<Translation Original="Scenarios" Replace="Сценарии"/>
+<Translation Original="Let your model play scenarios." Replace="Воспроизвести особые сценарии на текущем персонаже"/>
+<Translation Original="Effects" Replace="Эффекты"/>
+<Translation Original="Play effects on your player model" Replace="Воспроизвести особые эффекты на текущем персонаже"/>
+<Translation Original="Player Proofs" Replace="Неуязвимость"/>
+<Translation Original="Alter what your player proofs on." Replace="Установить неуязвимость к определенному виду урона"/>
+
+Главное меню -> Персонаж -> Окно: Активный персонаж
+<Translation Original="Health" Replace="Здоровье"/>
+<Translation Original="Bank" Replace="Банк"/>
+<Translation Original="Speed" Replace="Скорость"/>
+<Translation Original="Character" Replace="Персонаж"/>
+<Translation Original="Ammo" Replace="Боеприпасы"/>
+<Translation Original="Armour" Replace="Броня"/>
+<Translation Original="Model" Replace="Модель"/>
+<Translation Original="Movement" Replace="Передвижение"/>
+<Translation Original="X Coord" Replace="X Ось"/>
+<Translation Original="Y Coord" Replace="Y Ось"/>
+<Translation Original="Z Coord" Replace="Z Ось"/>
+<Translation Original="Location" Replace="GPS:"/>
+<Translation Original="On Foot" Replace="На ногах"/>
+<Translation Original="In Vehicle" Replace="В транспорте"/>
+<Translation Original="Pitch" Replace="Подача"/>
+<Translation Original="Roll" Replace="Падение"/>
+<Translation Original="Yaw" Replace="Отклонение"/>
+<Translation Original="Heading" Replace="Направление"/>
+
+Главное меню -> Персонаж -> Одежда персонажа
+<Translation Original="Load / Save" Replace="Загрузить | Сохранить"/>*
+<Translation Original="Load custom outfits." Replace="Загрузить пользовательские костюмы"/>
+<Translation Original="Folder: RampageFiles\Outfits" Replace="Путь: Grand Theft Auto V\RampageFiles\Outfits"/>
+<Translation Original="Model Changer" Replace="Изменить модель"/>
+<Translation Original="Change your ped model." Replace="Изменить модель персонажа"/>
+<Translation Original="Apply Damage Packs" Replace="Добавить спрайты повреждений"/>
+<Translation Original="Wardrobe Cam" Replace="Камера как в гардеробе"/>
+<Translation Original="Random Components" Replace="Случайная одежда"/>
+<Translation Original="Applies a random outfit." Replace="Сгенерировать случайную одежду"/>
+<Translation Original="Random Props" Replace="Случайная маска или очки"/>
+<Translation Original="Applies random props." Replace="Сгенерировать случайную маску или очки"/>
+<Translation Original="Default Components" Replace="Одежда по умолчанию"/>
+<Translation Original="Reset default components." Replace="Установить костюм по-умолчанию"/>
+<Translation Original="Add Rockstar Logo Black/White" Replace="Добавить лого Rockstar Черное/Белое"/>
+<Translation Original="Add Rockstar Logo Gold/Black" Replace="Добавить лого Rockstar Золотое/Черное"/>
+<Translation Original="Add Rockstar Logo Blue/Grey" Replace="Добавить лого Rockstar Голубое/Серое"/>
+<Translation Original="Add Custom Decal" Replace="Добавить пользовательсккое лого"/>
+
+-----(ОДЕЖДА)----------------------------------------------------------------------------------------------
+
+<Translation Original="Head" Replace="Голова"/>
+<Translation Original="Beard/Masks" Replace="Борода | Маски"/>
+<Translation Original="Hair" Replace="Прически"/>
+<Translation Original="Torso" Replace="Торс"/>
+<Translation Original="Legs" Replace="Ноги"/>
+<Translation Original="Hands/Back" Replace="Руки | Зад"/>
+<Translation Original="Shoes" Replace="Обувь"/>
+<Translation Original="Teeth/Scarf/Necklace/Bracelets" Replace="Зубы | Шарф | Ожерелье | Браслеты"/>
+<Translation Original="Accessory/Tops" Replace="Специальная | Топы"/>
+<Translation Original="Armor Draw" Replace="Нарисованная броня"/>
+<Translation Original="Emblems" Replace="Эмблемы"/>
+<Translation Original="Tops" Replace="Верх"/>
+
+-----(АККСЕСУАРЫ)------------------------------------------------------------------------------------------ 
+
+<Translation Original="Hats" Replace="Шляпы"/>
+<Translation Original="Glasses" Replace="Очки"/>
+<Translation Original="Ear Pieces" Replace="Серьги"/>
+<Translation Original="Watches" Replace="Часы"/>
+<Translation Original="Bangles" Replace="Браслеты"/>
+
+-----------------------------------------------------------------------------------------------------------
+
+Главное меню -> Персонаж -> Одежда персонажа -> Изменить модель
+===================================================
+<Translation Original="Addon Peds" Replace="Пользователские модели"/>
+<Translation Original="Load Custom Ped Models." Replace="Загрузить пользовательскую модель пешехода"/>
+<Translation Original="Only works if you use the AddonPeds mod." Replace="Работает только с установленным модом AddonPeds"/>
+===================================================
+<Translation Original="No Addon Peds Installed" Replace="Не установлен мод AddonPeds"/>
+<Translation Original="Enter model name or hash." Replace="Введите имя пользовательской модели или хэш"/>
+===================================================
+
+-----(Модели персонажа)----------------------------------------------------------------
+
+<Translation Original="Animal" Replace="Животные"/>
+<Translation Original="Ambient Female" Replace="Пешеходы женщины"/>
+<Translation Original="Ambient Male" Replace="Пешеходы мужчины"/>
+<Translation Original="Cutscene" Replace="Кат сцены"/>
+<Translation Original="Gang Female" Replace="Жещина бандит"/>
+<Translation Original="Gang Male" Replace="Мужчина бандит"/>
+<Translation Original="Story" Replace="Сюжетный режим"/>
+<Translation Original="Multiplayer" Replace="Мультиплеер"/>
+<Translation Original="Scenario Female" Replace="Женщины из демо"/>
+<Translation Original="Scenario Male" Replace="Мужчины из демо"/>
+<Translation Original="Story Scenario Female" Replace="Женщины из сюжетного демо"/>
+<Translation Original="Story Scenario Male" Replace="Мужчины из сюжетного демо"/>
+<Translation Original="Others" Replace="Другие"/>
+
+---------------------------------------------------------------------------------------
+
+Главное меню -> Персонаж -> Одежда персонажа -> Изменить модель -> Модели персонажа
+
+-----(Персонаж)------------------------------------------------------------------------
+
+<Translation Original="Michael" Replace="Майкл"/>
+<Translation Original="Franklin" Replace="Франклин"/>
+<Translation Original="Trevor" Replace="Тревор"/>
+<Translation Original="Freemode Female" Replace="Женщина (Свободный режим)"/>
+<Translation Original="Freemode Male" Replace="Мужчина (Свободный режим)"/>
+
+-----(Животные)------------------------------------------------------------------------
+
+<Translation Original="Australian Shepherd" Replace="Австралийский пастух"/>
+<Translation Original="Boar" Replace="Кабан"/>
+<Translation Original="Cat" Replace="Кошка"/>
+<Translation Original="Chimp" Replace="Шимпанзе"/>
+<Translation Original="Chop" Replace="Чоп"/>
+<Translation Original="Cormorant" Replace="Баклажан"/>
+<Translation Original="Cow" Replace="Корова"/>
+<Translation Original="Coyote" Replace="Койот"/>
+<Translation Original="Crow" Replace="Ворон"/>
+<Translation Original="Deer" Replace="Олень"/>
+<Translation Original="Dolphin" Replace="Дельфин"/>
+<Translation Original="Fish" Replace="Рыба"/>
+<Translation Original="Hammerhead Shark" Replace="Акула-молот"/>
+<Translation Original="Hawk" Replace="Ястреб"/>
+<Translation Original="Hen" Replace="Курица"/>
+<Translation Original="Humpback" Replace="Кит-горбун"/>
+<Translation Original="Husky" Replace="Хаски"/>
+<Translation Original="Killer Whale" Replace="Кит-убийца"/>
+<Translation Original="Mountain Lion" Replace="Горный лев"/>
+<Translation Original="Panther" Replace="Пантера"/>
+<Translation Original="Pig" Replace="Свинья"/>
+<Translation Original="Pigeon" Replace="Голубь"/>
+<Translation Original="Poodle" Replace="Пудель"/>
+<Translation Original="Pug" Replace="Мопс"/>
+<Translation Original="Rabbit" Replace="Кролик"/>
+<Translation Original="Rat" Replace="Крыса"/>
+<Translation Original="Retriever" Replace="Ретривер"/>
+<Translation Original="Rhesus" Replace="Макак-резус"/>
+<Translation Original="Rottweiler" Replace="Ротвейлер"/>
+<Translation Original="Seagull" Replace="Чайка"/>
+<Translation Original="Stingray" Replace="Морской скат"/>
+<Translation Original="Tiger Shark" Replace="Тигровая акула"/>
+<Translation Original="Westie" Replace="Собачка Westie"/>
+
+---------------------------------------------------------------------------------------
+
+
+Главное меню -> Персонаж -> Одежда персонажа -> Загрузить | Сохранить
+<Translation Original="Save Current" Replace="Сохранить текущий"/>
+
+-----(Готовые)-------------------------------------------------------------------------
+
+<Translation Original="Bodysuit" Replace="Боди "/>
+<Translation Original="CDirector" Replace="Директор цирка"/>
+<Translation Original="Christmas" Replace="Рождество"/>
+<Translation Original="Epsilon" Replace="Эпсилон"/>
+<Translation Original="Fireman" Replace="Пожарный"/>
+<Translation Original="Ghostrider" Replace="Призрачный гонщик"/>
+<Translation Original="Highway Police" Replace="Дорожная полиция"/>
+<Translation Original="Juggernaut" Replace="Джаггернаут"/>
+<Translation Original="Police (freemode)" Replace="Полицейский (Свободный режим)"/>
+<Translation Original="Policeman" Replace="Полицейский"/>
+<Translation Original="Secret Service" Replace="Секретная служба"/>
+<Translation Original="Suit" Replace="Костюм"/>
+<Translation Original="Thron" Replace="Трон"/>
+<Translation Original="White Smoking" Replace="Белый смокинг"/>
+
+---------------------------------------------------------------------------------------
+
+Главное меню -> Персонаж -> Фильтры камеры
+<Translation Original="Nightvision" Replace="Ночное виденье"/>
+<Translation Original="Heatvision" Replace="Тепловизор"/>
+<Translation Original="Animpost FX" Replace="Animpost FX"/>
+<Translation Original="Timecycle Modifiers" Replace="Модификация таймциклов"/>
+<Translation Original="Clear all" Replace="Очистить все"/>*
+
+Главное меню -> Персонаж -> Фильтры камеры -> Animpost FX
+<Translation Original="Clear all" Replace="Очистить все"/>
+<Translation Original="Custom Input" Replace="Пользовательский ввод"/>*
+
+Главное меню -> Персонаж -> Фильтры камеры -> Модификация таймциклов
+<Translation Original="Clear all" Replace="Очистить все"/>
+<Translation Original="Strength" Replace="Прочность"/>*
+<Translation Original="Custom Input" Replace="Пользовательский ввод"/>
+<Translation Original="Search" Replace="Поиск"/>
+
+Главное меню -> Персонаж -> Настроение
+<Translation Original="Reset" Replace="Сброс"/>
+
+-----(Настроение)----------------------------------------------
+
+<Translation Original="Normal" Replace="Нормальное"/>
+<Translation Original="Happy" Replace="Радостное"/>
+<Translation Original="Angry" Replace="Злое"/>
+<Translation Original="Stressed" Replace="Стрессовое"/>
+<Translation Original="Sleeping" Replace="Спящое"/>
+<Translation Original="Drunk" Replace="Пьяное"/>
+<Translation Original="Aiming" Replace="Целенаправленное"/>
+<Translation Original="Injured" Replace="Раненое"/>
+<Translation Original="Burning" Replace="Горющее"/>
+<Translation Original="Death" Replace="Убитое"/>
+<Translation Original="Smug" Replace="Самодовольное"/>
+<Translation Original="Sulk" Replace="Обиженное"/>
+
+---------------------------------------------------------------
+
+Главное меню -> Персонаж -> Анимации
+<Translation Original="Dictionaries" Replace="Архив анимаций"/>
+<Translation Original="Controllable" Replace="Контролируемая анимация"/>
+<Translation Original="Enable controls during animation." Replace="Можно управлять персонажем во время проигрывания"/>
+<Translation Original="Garbled" Replace="Искажённая анимация"/>
+<Translation Original="Uses a broken animation." Replace="Скручивает персонажа во время проигрывания"/>
+<Translation Original="Stop Animation" Replace="Остановить анимацию"/>
+
+-----(Анимации)------------------------------------------------------------------------
+
+<Translation Original="Sex Receiver" Replace="Секс (Вариант 1)"/>
+<Translation Original="Sex Giver" Replace="Cекс (Вариант 2)"/>
+<Translation Original="Fap" Replace="Дрочка"/>
+<Translation Original="Rolling Barrel" Replace="Катить бочку"/>
+<Translation Original="Drunk Howling" Replace="Пьяный вой"/>
+<Translation Original="Dance" Replace="Танец"/>
+<Translation Original="Stripper Dance" Replace="Стриптиз танец"/>
+<Translation Original="Pole Dance" Replace="Танец на пилоне"/>
+<Translation Original="Push Ups" Replace="Отжимания"/>
+<Translation Original="Pull Ups" Replace="Подтягивания"/>
+<Translation Original="Sit Ups" Replace="Качать пресс"/>
+<Translation Original="Chin Ups" Replace="Подтягивания до подбородока"/>
+<Translation Original="Celebrate" Replace="Бегать и праздновать"/>
+<Translation Original="You Can't Stop My" Replace="Вы не сможете остановить меня"/>
+<Translation Original="I Wanna Do Hamlet" Replace="Я хочу сыграть Гамлета"/>
+<Translation Original="Having About As Much" Replace="Имея примерно столько же!"/>
+<Translation Original="Just Wondering When" Replace="Просто интересно, когда?"/>
+<Translation Original="Great I Wanted To" Replace="Отлично я это хотел"/>
+<Translation Original="Middle Finger" Replace="Стойка - Средний палец"/>
+<Translation Original="Pee" Replace="Писать"/>
+<Translation Original="Toilet" Replace="Какать"/>
+<Translation Original="Meditation" Replace="Медитация"/>
+<Translation Original="Electrocution" Replace="Электрошок"/>
+<Translation Original="Stun Fire" Replace="Гореть в огне"/>
+<Translation Original="Arrest" Replace="Арест"/>
+<Translation Original="Suicide (Pistol)" Replace="Самоубийство (Пистолет)"/>
+<Translation Original="Suicide (Pill)" Replace="Самоубийство (Таблетка)"/>
+<Translation Original="Showering" Replace="Мыться"/>
+<Translation Original="Waving Arms" Replace="Размахивать руками"/>
+<Translation Original="Thanks" Replace="Благодарить"/>
+<Translation Original="Choke" Replace="Душить"/>
+<Translation Original="Layed Down" Replace="Без сознания"/>
+
+---------------------------------------------------------------------------------------
+
+Главное меню -> Персонаж -> Сценарии
+<Translation Original="All Scenarios" Replace="Все сценарии"/>
+<Translation Original="Stop Playing" Replace="Остановить воспроизведение"/>*
+
+Главное меню -> Персонаж -> Сценарии -> Все сценарии
+<Translation Original="Reload List" Replace="Обновить список"/>
+<Translation Original="Stop Playing" Replace="Остановить воспроизведение"/>
+<Translation Original="Stop Playing Immediately" Replace="Остановить воспроизведение сразу"/>
+<Translation Original="Use Nearest" Replace="Воспроизвести близжайший сценарий"/>
+<Translation Original="Custom Input" Replace="Пользовательский ввод"/>
+<Translation Original="Search" Replace="Поиск"/>
+
+Главное меню -> Персонаж -> Неуязвимость
+<Translation Original="Bullets" Replace="Пули"/>
+<Translation Original="Fire" Replace="Огонь"/>
+<Translation Original="Explosions" Replace="Взрывы"/>
+<Translation Original="Collision" Replace="Коллизия"/>
+<Translation Original="Melee" Replace="Оружие ближнего боя"/>
+
+Главное меню -> Персонаж -> Режимы
+<Translation Original="Godmode" Replace="Неузявимость"/>
+<Translation Original="Your player becomes Godmode." Replace="Персонаж станет неуязвим для всех видов урона"/>
+<Translation Original="Auto Heal" Replace="Авто исцеление"/>
+<Translation Original="Your player regenerates max health when damaged." Replace="Восстанавливать здоровье при получении урона"/>
+<Translation Original="Ghostmode" Replace="Режим призрака"/>
+<Translation Original="Your player becomes Ghostmode." Replace="Персонаж станет прозрачным"/>
+<Translation Original="Wanted Level" Replace="Уровень розыска"/>
+<Translation Original="Set your wanted level." Replace="Установить текущий уровень розыска"/>
+<Translation Original="Run Speed" Replace="Скорость бега"/>
+<Translation Original="Set your run speed." Replace="Установить скорость бега персонажа"/>
+<Translation Original="Swim Speed" Replace="Скорость плаванья"/>
+<Translation Original="Set your swim speed." Replace="Установить скорость плаванья персонажа"/>
+<Translation Original="Never Wanted" Replace="Без розыска"/>
+<Translation Original="Never get wanted." Replace="Персонаж не будет получать розыск"/>
+<Translation Original="Police Ignore" Replace="Полиция игнорирует"/>
+<Translation Original="Cops will ignore you." Replace="Полиция не атакует песонажа"/>
+<Translation Original="No Ragdoll" Replace="Отключить рэгдол"/>
+<Translation Original="Disable ped ragdoll on impact or fall." Replace="Отключить рэгдол при ударе или падении"/>
+<Translation Original="Super Jump" Replace="Супер прыжок"/>
+<Translation Original="Your ped can jump higher." Replace="Персонаж сможет прыгать выше"/>
+<Translation Original="Beast Jump" Replace="Прыжок зверя"/>
+<Translation Original="Enable beast jump ability." Replace="Персонаж сможет прыгать высоко с анимацией зверя"/>
+<Translation Original="Ultra Jump" Replace="Ультра прыжок"/>
+<Translation Original="Your ped can jump much higher." Replace="Персонаж сможет прыгать очень высоко"/>
+<Translation Original="Ultra Run" Replace="Ультра бег"/>
+<Translation Original="Your ped can run extremely fast." Replace="Персонаж сможет бегать чрезвычайно быстро"/>
+<Translation Original="To activate press [SHIFT]." Replace="[Shift] - Для активации нажмите"/>
+<Translation Original="Player Opacity" Replace="Прозрачность игрока"/>
+<Translation Original="Set your player opacity." Replace="Установить прозрачность персонажа"/>
+<Translation Original="Unlimited Special Ability" Replace="Безлимитная специальная способность"/>
+<Translation Original="Gives you unlimited special ability." Replace="Используйте спецспособность персонажа бесконечно"/>
+<Translation Original="Fly Mode" Replace="Режим полета"/>
+<Translation Original="Activates fly mode." Replace="Активировать режим полета"/>
+<Translation Original="[W] - Forward" Replace="[W] - Вперёд"/>
+<Translation Original="[Space] - Apply Force" Replace="[Space] - Вверх"/>
+<Translation Original="Superman" Replace="Супермен"/>
+<Translation Original="Activates superman mode." Replace="Активировать режим супермена"/>
+<Translation Original="Controls: [W] [A] [S] [D] [SHIFT]." Replace="[W] [A] [S] [D] [Shift] - Управление"/>
+<Translation Original="Collision" Replace="Коллизия"/>*
+<Translation Original="Disable player collision." Replace="Отключить коллизию для игрока"/>
+<Translation Original="You will fall trough world." Replace="Персонаж будет проваливаться под текстуры!"/>
+<Translation Original="Midget Mode" Replace="Режим карлика"/>
+<Translation Original="Makes player tiny." Replace="Сделать персонажа крошечным"/>
+<Translation Original="Force" Replace="Супер сила"/>
+<Translation Original="Use the force." Replace="Используйте супер силу"/>
+<Translation Original="[NUM3] - Lift Entities" Replace="[Num 3] - Поднять машины в воздух"/>
+<Translation Original="Forcefield" Replace="Силовое поле"/>
+<Translation Original="Push nearby entities away." Replace="Отталкивать объекты от себя"/>
+<Translation Original="Breath Fire" Replace="Огненное дыхание"/>
+<Translation Original="Breath out fire." Replace="Выдыхать огонь. Кнопку можно зажать!"/>
+<Translation Original="Controls: [J] or pull left control stick." Replace="[J - Зажать] - Выдыхать огонь"/>
+<Translation Original="Show Bones" Replace="Показать скелет"/>
+<Translation Original="Show Player Bones." Replace="Показать скелет игрока"/>
+<Translation Original="Clip Through Objects" Replace="Обрезать объекты"/>
+<Translation Original="Allows you to warp through some objects." Replace="Позволяет вам проходить через некоторые объекты"/>
+<Translation Original="Refill Health" Replace="Пополнить здоровье"/>
+<Translation Original="Heal yourself." Replace="Исцелить игрока"/>
+<Translation Original="Full heal + full armor." Replace="Восстановить HP + Одеть броню"/>
+<Translation Original="Restore Special Ability" Replace="Пополнить специальную способность"/>
+<Translation Original="Full special ability regenerate." Replace="Восстановить срециальную способность полностью"/>
+<Translation Original="Ragdoll" Replace="Ударить персонажа"/>
+<Translation Original="Suicide" Replace="Суицид"/>
+<Translation Original="Kill yourself." Replace="Самоубийство"/>
+<Translation Original="Instant death." Replace="Моментальная смерть"/>
+<Translation Original="Clone Player" Replace="Клонировать игрока"/>
+<Translation Original="Clones your player." Replace="Клонировать игрока"/>
+<Translation Original="Creates a clone of your current model." Replace="Создать клона вашей текущей модели"/>
+<Translation Original="Clear Tasks" Replace="Отменить задачи"/>
+<Translation Original="Clears your ped tasks." Replace="Отменяет задачи для вашего персонажа"/>
+<Translation Original="Clean Ped" Replace="Очистить одежду"/>
+<Translation Original="Clean your ped." Replace="Очистить вашего персонажа"/>
+<Translation Original="Clean's blood and damages." Replace="Очищает кровь и следы урона"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+Главное меню -> Оружие
+<Translation Original="Manage Weapons" Replace="Модификация оружия"/>
+<Translation Original="Manage your weapons." Replace="Добавить или убрать любые виды оружия"/>
+<Translation Original="Ammo Modifiers" Replace="Модификация боеприпасов"/>
+<Translation Original="Modify your weapon ammo." Replace="Добавить особые эффекты при стрельбе"/>
+<Translation Original="Aimbot" Replace="Помощь в прицеливании"/>
+<Translation Original="Auto shoot or aim on enemey's or peds." Replace="Авто наведение и авто выстрел"/>
+<Translation Original="Weapon modifiers (Damage, Melee Defense)" Replace="Настройка оружия в руках (Урон и точность)"/>
+<Translation Original="Heatvision on Aiming" Replace="Тепловизор при прицеливании"/>
+<Translation Original="Heatvision while aiming." Replace="Активация тепловизора во время прицеливания"/>
+<Translation Original="Slow Motion on Aiming" Replace="Замедление при прицеливании"/>
+<Translation Original="Slow time while aiming." Replace="Эффект замеделения времени во время прицеливания"/>
+<Translation Original="Rapid Fire" Replace="Скорострельность (Вариант 1)"/>
+<Translation Original="Shoot multiple fast bullets." Replace="Просто ускоряет скорость стрельбы без умножения пуль"/>
+<Translation Original="Rapid Gun" Replace="Скорострельность (Вариант 2)"/>
+<Translation Original="Multiply bullets." Replace="Множитель пуль"/>
+<Translation Original="Shoot fast bullets direct from gun." Replace="Стрельба очень быстая но не точная"/>
+<Translation Original="Tenfold Bullets" Replace="Десять пуль одновременно"/>
+<Translation Original="Triple bullets." Replace="Увеличивает количество пуль, выстреливающих одновременно"/>
+<Translation Original="Infinite Ammo" Replace="Бесконечные боеприпасы"/>
+<Translation Original="Infinitive ammo." Replace="Бесконечные патроны оружия"/>
+<Translation Original="No Reload" Replace="Без перезарадяки"/>
+<Translation Original="Disables Reload anim." Replace="Отключает анимацию перезарядки"/>
+<Translation Original="Teleport Gun" Replace="Оружие - Телепорт"/>
+<Translation Original="Teleport to impact coords." Replace="Телепортация в точку куда направлен прицел"/>
+<Translation Original="Cartoon Gun" Replace="Оружие - Мультяшное"/>
+<Translation Original="Funny effects while shooting." Replace="Мультяшные эффекты при стрельбе"/>
+<Translation Original="Debug Gun" Replace="Оружие - Дэбаг"/>
+<Translation Original="Debug info on aimed entity." Replace="Дополнительная информация о объекте в прицеле"/>
+<Translation Original="Delete Gun" Replace="Оружие - Удаляющие"/>
+<Translation Original="Delete aimed entity." Replace="Удаляет объект в прицеле при стрельбе"/>
+<Translation Original="Revive Gun" Replace="Оружие - Реаниматор"/>
+<Translation Original="Revive dead people." Replace="Воскрешает мертвых пешеходов"/>
+<Translation Original="Use Tazer for function. [F12] assign Hotkey" Replace="Используйте электрошокер для воскрешения"/>
+<Translation Original="Soul Swap Gun" Replace="Оружие - Захват тела"/>
+<Translation Original="Swap souls with the ped you are shooting at." Replace="Перемещает управление в выбранную цель"/>
+<Translation Original="Rope Gun" Replace="Оружие - Лебёдка"/>
+<Translation Original="Gravity Gun" Replace="Оружие - Гравитационное"/>
+<Translation Original="Move aimed entities." Replace="Перемещает объект в прицеле"/>
+<Translation Original="Magnet Gun" Replace="Оружие - Магнит"/>
+<Translation Original="Attract nearby vehicles and peds." Replace="Притягивает транспорт и пешеходов в область прицеливания"/>
+<Translation Original="Pickup Gun" Replace="Оружие - Перемещения"/>
+<Translation Original="Pickup entities and move them around." Replace="Перемещает объект в прицел для перетаскивания"/>
+<Translation Original="Portal Gun" Replace="Оружие - Из игры Portal"/>
+<Translation Original="Set two teleport portals." Replace="Устанавливает два телепорта"/>
+<Translation Original="Press [Shift] to switch portal creation." Replace="Нажмите [Shift] чтобы выбрать портал"/>
+<Translation Original="Force Gun" Replace="Оружие - Силовое"/>
+<Translation Original="Apply force to impact entity." Replace="Толкнуть объект после выстрела"/>
+<Translation Original="Vehicle Paint Gun" Replace="Оружие - Покраска"/>
+<Translation Original="Paint impact vehicle." Replace="Меняет цвет авто случайным образом"/>
+<Translation Original="Drive It Gun" Replace="Оружие - Телепорт в транспорт"/>
+<Translation Original="Teleport into impact vehicle." Replace="Телепортирует прямо в выстреленный транспорт"/>
+<Translation Original="Weapon Laser" Replace="Лазер на оружие"/>
+<Translation Original="Laser sight on aiming." Replace="Включает лазерный целеуказатель"/>
+<Translation Original="Explosive Ammo" Replace="Разрывные боеприпасы"/>
+<Translation Original="Shoot explosive bullets." Replace="Пули взрываются при попадании"/>
+<Translation Original="Fire Ammo" Replace="Зажигательные боеприпасы"/>
+<Translation Original="Shoot fire bullets." Replace="Пуля поджигает цель после попадания"/>
+<Translation Original="One Hit Kill" Replace="Одно попадание для убийства"/>
+<Translation Original="High Damage." Replace="Наносить огромный урон по цели"/>
+<Translation Original="No Recoil" Replace="Без отдачи"/>
+<Translation Original="No Weapon recoil." Replace="Отключить отдачу оружия"/>
+<Translation Original="Explosive Melee" Replace="Удары ярости"/>
+<Translation Original="Power fists." Replace="При ударах кулаками ногами или оружием"/>
+<Translation Original="Explosions on melee damage." Replace="ближнего боя происходит взрыв"/>
+<Translation Original="No Parachutes" Replace="Без парашюта"/>
+<Translation Original="Disable unlimited parachutes." Replace="Отключить неограниченные парашюты"/>
+
+Главное меню -> Оружие -> Модификация оружия
+<Translation Original="Weapon Camo" Replace="Расцветки оружия"/>
+<Translation Original="Modify your weapon color." Replace="Изменить расцветку для вашего оружия"/>
+<Translation Original="Loadouts" Replace="Сохранить раскладку оружия"/>
+<Translation Original="Save and load your personal loadouts." Replace="Сохраняйте и загружайте раскладки оружия"/>
+<Translation Original="Give All" Replace="~g~Получить все оружие"/>
+<Translation Original="Give yourself all weapons." Replace="Получить все оружие в игре"/>
+<Translation Original="Give Digiscanner" Replace="Получить сканер"/>
+<Translation Original="Give Briefcase" Replace="Получить портфель"/>
+<Translation Original="Remove All" Replace="~r~Выкинуть все оружие"/>
+<Translation Original="Removes all your weapons." Replace="Выкинуть все оружие из инвентаря"/>
+<Translation Original="Drop Current" Replace="~r~Выкинуть текущее оружие"/>
+<Translation Original="Drop your current held weapon." Replace="Выкинуть ваше выбранное оружие в руках"/>
+<Translation Original="Upgrade (All Weapons)" Replace="Модифицировать всё оружие"/>
+<Translation Original="Upgrade all weapons." Replace="Модифицировать все оружие в инвентаре"/>
+<Translation Original="Upgrade (Current Weapon)" Replace="Модифицировать выбранное оружие"/>
+<Translation Original="Upgrade current hold weapon." Replace="Модифицировать выбранное оружие в руках"/>
+<Translation Original="Restore (All Weapons)" Replace="Убрать модификации всего оружия"/>
+<Translation Original="Downgrade all weapons." Replace="Вернуть в исходное состояние всё оружие"/>
+<Translation Original="Fill Ammo" Replace="Заполнить боеприпасы"/>
+<Translation Original="Add ammo to current weapon." Replace="Пополнить боеприпасы к текущему оружию"/>
+
+-----(Тип оружия)----------------------------------------------------------
+
+<Translation Original="Handguns" Replace="Пистолеты"/>
+<Translation Original="Submachine Guns" Replace="Пистолеты-пулемёты"/>
+<Translation Original="Shotguns" Replace="Дробовики"/>
+<Translation Original="Assault Rifles" Replace="Штурмовые винтовки"/>
+<Translation Original="Sniper Rifles" Replace="Снайперские винтовки"/>
+<Translation Original="Heavy Weapons" Replace="Тяжёлое оружие"/>
+<Translation Original="Throwables" Replace="Метательное оружие"/>
+
+---------------------------------------------------------------------------
+
+Главное меню -> Оружие -> Модификация оружия -> Раcцветки
+<Translation Original="Custom Crosshair" Replace="Особый прицел"/>
+<Translation Original="Set a custom crosshair." Replace="Устанавливает особый прицел"/>
+<Translation Original="Dart" Replace="Дротик"/>
+<Translation Original="Dart zoomed" Replace="Дротик увеличенный"/>
+<Translation Original="Arrow" Replace="Стрелка"/>
+<Translation Original="Target" Replace="Цель"/>
+<Translation Original="Dot" Replace="Точка"/>
+<Translation Original="Plus" Replace="Плюс"/>
+<Translation Original="Crosshair Color" Replace="Цвет прицела"/>
+
+-----(Раскраски)-----------------------------------------------
+
+<Translation Original="Army-" Replace="Армейский"/>
+<Translation Original="Gold-" Replace="Золотой"/>
+<Translation Original="Green-" Replace="Зелёный"/>
+<Translation Original="LSPD-" Replace="Полицейский"/>
+<Translation Original="Orange-" Replace="Оранжевый"/>
+<Translation Original="Pink-" Replace="Розовый"/>
+<Translation Original="Platinum-" Replace="Платиновый"/>
+
+---------------------------------------------------------------
+
+<Translation Original="Camo Cycle" Replace="Разноцветное"/>
+<Translation Original="Rainbow all weapons." Replace="Все оружие радужное"/>
+<Translation Original="Camo" Replace="Расцветки:"/>
+
+-----(Расцветки)-------------------------------------------------------------------------------
+
+<Translation Original="Classic Black" Replace="Классический чёрный"/>
+<Translation Original="Classic Gray" Replace="Классический серый"/>
+<Translation Original="Classic Two-Tone" Replace="Классический двухцветный"/>
+<Translation Original="Classic White" Replace="Классический белый"/>
+<Translation Original="Classic Beige" Replace="Классический бежевый"/>
+<Translation Original="Classic Green" Replace="Классический зелёный"/>
+<Translation Original="Classic Blue" Replace="Классический синий"/>
+<Translation Original="Classic Earth" Replace="Классическая коричневый"/>
+<Translation Original="Classic Brown & Black" Replace="Классический коричнево-чёрный"/>
+<Translation Original="Red Contrast" Replace="Контрастный красный"/>
+<Translation Original="Blue Contrast" Replace="Контрастный синий"/>
+<Translation Original="Yellow Contrast" Replace="Контрастный жёлтый"/>
+<Translation Original="Orange Contrast" Replace="Контрастный оранжевый"/>
+<Translation Original="Pink Contrast" Replace="Контрастный розовый"/>
+<Translation Original="Black & Yellow Contrast" Replace="Контрастный чёрно-жёлтый"/>
+<Translation Original="Orange & Yellow Contrast" Replace="Контрастный оранжево-жёлтый"/>
+<Translation Original="Green & Pink Contrast" Replace="Контрастный зелёно-розовый"/>
+<Translation Original="Bold Red & Black" Replace="Насыщенный красно-чёрный"/>
+<Translation Original="Bold Green & Black" Replace="Насыщенный зелёно-чёрный"/>
+<Translation Original="Bold Blue & Black" Replace="Насыщенный сине-красный"/>
+<Translation Original="Bold Lime & Black" Replace="Насыщенный лаймово-чёрный"/>
+<Translation Original="Bold Red & White" Replace="Насыщенный красно-белый"/>
+<Translation Original="Bold Blue & White" Replace="Насыщенный сине-белый"/>
+<Translation Original="Metallic Gold" Replace="Металлик золото"/>
+<Translation Original="Metallic Platinum" Replace="Металлик платина"/>
+<Translation Original="Metallic Gray & Lilac" Replace="Металлик серый"/>
+<Translation Original="Mettalic Purple & Lime" Replace="Металлик фиолетово-лаймовый"/>
+<Translation Original="Metallic Red" Replace="Металлик красный"/>
+<Translation Original="Metallic Green" Replace="Металлик зелёный"/>
+<Translation Original="Metallic Blue" Replace="Металлик синий"/>
+<Translation Original="Metallic White & Aqua" Replace="Металлик белый"/>
+<Translation Original="Metallic Red & Yellow" Replace="Металлик красно-жёлтый"/>
+
+-----------------------------------------------------------------------------------------------
+
+Главное меню -> Оружие -> Модификация боеприпасов
+<Translation Original="Explosion Type" Replace="Тип взрыва"/>
+<Translation Original="Change explosion type on impact." Replace="Изменение типа взрыва при выстреле"/>
+<Translation Original="Bullet Type" Replace="Тип пуль"/>
+<Translation Original="Change bullet type." Replace="Изменить тип боеприпасов"/>
+<Translation Original="Particle Gun" Replace="Оружие - PTFX"/>
+<Translation Original="Particle effects on bullet impact." Replace="PTFX эффекты при выстреле"/>
+<Translation Original="Coords Gun" Replace="Оружие - Координаты"/>
+<Translation Original="Returns impact coords." Replace="Отображает координты прицела при выстреле"/>
+<Translation Original="Airstrike Gun" Replace="Оружие - Артиллерия"/>
+<Translation Original="Airstrike on impact coords." Replace="Артиллерийский выстрел по координатам выстрела"/>
+<Translation Original="Remote Rocket" Replace="Оружие - Дистанционная ракета"/>
+<Translation Original="Remote-Control a rocket." Replace="Ракета дистанционного управления"/>
+<Translation Original="Ped Gun" Replace="Оружие - Пешеходы"/>
+<Translation Original="Shoot peds." Replace="Стреляет пешеходами"/>
+<Translation Original="Vehicle Gun" Replace="Оружие - Транспорт"/>
+<Translation Original="Shoot vehicles." Replace="Стреляет транспортом"/>
+
+Главное меню -> Оружие -> Помощь в прицеливании
+<Translation Original="Targeting Mode" Replace="Режим прицеливания"/>
+<Translation Original="Set's player targeting mode." Replace="Режим авто прицеливания игрока"/>
+<Translation Original="Assisted Aiming only affects controller." Replace="Авто прицеливание актуально только для геймпада"/>
+ 
+-----(Режим прицеливания)----------------------------------------------
+
+<Translation Original="Traditional GTA" Replace="Традиционно GTA"/>
+<Translation Original="Assisted Aiming" Replace="Ассистент XBOX"/>
+<Translation Original="Free Aim" Replace="Свободно FREE"/>
+
+-----------------------------------------------------------------------
+
+<Translation Original="Triggerbot" Replace="Триггербот"/>
+<Translation Original="Enable the triggerbot." Replace="Включить триггербот. Подсветка цели"/>
+<Translation Original="Enable the aimbot." Replace="Включить помошника в прицеливании"/>
+<Translation Original="Prioritize" Replace="Приоритет зоны"/>
+
+-----(Приоритет зоны)------------------------------------------
+
+<Translation Original="Neck" Replace="Шея"/>
+<Translation Original="Spine" Replace="Тело"/>
+<Translation Original="Left Hand" Replace="Левая рука"/>
+<Translation Original="Right Hand" Replace="Правая рука"/>
+<Translation Original="Left Foot" Replace="Левая нога"/>
+<Translation Original="Right Food" Replace="Правая нога"/>
+
+---------------------------------------------------------------
+
+<Translation Original="Auto Shoot" Replace="Авто стрельба"/>
+<Translation Original="Aimbot will shoot on targets." Replace="Помошник будет стрелять автоматически"/>
+
+Главное меню -> Оружие -> Настройка оружия
+<Translation Original="Scale" Replace="Масштаб модели оружия"/>
+<Translation Original="Damage Modifier" Replace="Множитель урона"/>
+<Translation Original="Vehicle Damage Modifier" Replace="Множитель урона по транспорту"/>
+<Translation Original="Melee Modifier" Replace="Множитель урона ближнего боя"/>
+<Translation Original="Defense Modifier" Replace="Множитель защиты персонажа"/>
+<Translation Original="Accuracy" Replace="Точность оружия"/>
+<Translation Original="Set player weapon accuracy." Replace="Установить точность оружия игрока"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+Главное меню -> Транспорт
+<Translation Original="Customize your current vehicle." Replace="Можно изменить внешний вид транспорта"/>
+<Translation Original="Vehicle Handling" Replace="Характеристики транспорта"/>
+<Translation Original="Edit handling and speed stats." Replace="Изменение общих параметров управляемости"/>
+<Translation Original="Vehicle Acrobatics" Replace="Акробатика транспорта"/>
+<Translation Original="Front, Back and Heel flips." Replace="Всё что связано с кувырками траспорта"/>
+<Translation Original="Ramp Creator" Replace="Создатель рампы"/>
+<Translation Original="Attach ramps to your vehicle." Replace="Можно навесить пандусы к вашему транспорту"/>
+<Translation Original="Speedometer" Replace="Спидометр"/>
+<Translation Original="Watch your speed." Replace="Можно включить спидометр и отслеживать скорость"/>
+<Translation Original="Chauffeur" Replace="Личный водитель"/>
+<Translation Original="Let someone else drive for you." Replace="Можно заспавнить транспорт с личным водителем"/>
+<Translation Original="Vehicle Weapons" Replace="Оружие транспорта"/>
+<Translation Original="Weapons on every vehicle." Replace="Всё что связано с вооружением на транспорте"/>
+<Translation Original="Blip" Replace="Метка транспорта"/>
+<Translation Original="Add blips to your vehicles" Replace="Можно добавить метку любому транспорту на карту"/>
+<Translation Original="Helps you to find them on the map." Replace="Она будет помогать находить свой транспорт"/>
+<Translation Original="Vehicle AI" Replace="Наземный автопилот"/>
+<Translation Original="Vehicle Auto-Drive." Replace="Автопилот в наземном транспорте"/>
+<Translation Original="Autopilot" Replace="Воздушный автопилот"/>
+<Translation Original="Plane flight helper." Replace="Автопилот в воздушном транспорте"/>
+<Translation Original="Vehicle Particles" Replace="Партиклы транспорта"/>
+<Translation Original="Vehicle & Plane Particles." Replace="Можно добавить PTFX транспорту"/>
+<Translation Original="Vehicle Doors" Replace="Двери транспорта"/>
+<Translation Original="Control your vehicle doors." Replace="Управление всеми дверьми транспорта"/>
+
+Главное меню -> Транспорт -> Окно: Активный транспорт
+<Translation Original="Class" Replace="Класс:"/>
+<Translation Original="Hash" Replace="Хеш:"/>
+<Translation Original="Engine Health" Replace="Состояние двигателя:"/>
+<Translation Original="Body Health" Replace="Состояние транспорта:"/>
+<Translation Original="Dirt Level" Replace="Уровень грязи:"/>
+<Translation Original="Max Speed" Replace="Скорость Max:"/>
+<Translation Original="Weapons" Replace="Оружие:"/>
+
+-----(Транспорт)-----------------------------------------------------------------------------------------------------------------------------------
+
+<Translation Original="Invincible Vehicle" Replace="Неуязвимость транспорта"/>
+<Translation Original="Your vehicle becomes invincible." Replace="Транспорт станет невосприимчив к урону"/>
+<Translation Original="Invisible Vehicle" Replace="Прозрачный транспорт"/>
+<Translation Original="Your vehicle becomes invisible." Replace="Текущий транспорт станет невидим"/>
+<Translation Original="Vehicle Opacity" Replace="Непрозрачность автомобиля"/>
+<Translation Original="Set your vehicle opacity." Replace="Установить степень непрозрачности транспорта"/>
+<Translation Original="Vehicle Jump" Replace="Прыжок транспорта"/>
+<Translation Original="Your vehicle can jump" Replace="Небольшое подпрыгивание транспорта"/>
+<Translation Original="Auto-Fix" Replace="Авторемонт транспорта"/>
+<Translation Original="Rampage will fix your vehicle automatically." Replace="Автоматический ремонт транспорта"/>
+<Translation Original="Force Engine On" Replace="Заранее включить двигатель"/>
+<Translation Original="Your vehicle engine is always on." Replace="Быстро включить двигатель без задержки"/>
+<Translation Original="Unlimited Nitro" Replace="Неограниченное ускорение"/>
+<Translation Original="Unlimited boost for rocket vehicles." Replace="Неограниченное ускорение для ракетного транспорта:"/>
+<Translation Original="eg. Oppressor, Rocket Voltic" Replace="Oppressor | Rocket Voltic | Vigilante..."/>
+<Translation Original="Vehicle Fly Mode" Replace="Летающий транспорт"/>
+<Translation Original="Enable vehicle fly mode" Replace="Включить режим полёта транспорта"/>
+<Translation Original="[MOUSE] - Direction" Replace="[МЫШЬ] - Направление"/>
+<Translation Original="Horn Boost" Replace="Гудок ускорение"/>
+<Translation Original="Speedup your vehicle by pressing horn." Replace="Ускорение по нажатию кнопки"/>
+<Translation Original="Speed Boost" Replace="Посстоянное ускорение"/>
+<Translation Original="Boost your vehicle." Replace="Посстоянное ускорение транспорта при движении"/>
+<Translation Original="[S] - Backward" Replace="[S] - Назад"/>
+<Translation Original="Drive on Water" Replace="Ездить по воде"/>
+<Translation Original="Your vehicle can drive on water." Replace="Транспорт не тонет в воде а едет по ней"/>
+<Translation Original="Anti Fall from Bike" Replace="Ремень безопастности (Мотоцикл)"/>
+<Translation Original="Your ped cannot be knocked off bikes." Replace="Вы больше не будет падать с двухколёсного транспорта"/>
+<Translation Original="Seatbelt" Replace="Ремень безопастности (Машина)"/>
+<Translation Original="Never fall trough windscreen." Replace="Персонаж будет пристёгнут в наземном транспорте"/>
+<Translation Original="Freeze Vehicle" Replace="Заморозить транспорт"/>
+<Translation Original="Freeze your vehicle." Replace="Заморозить немедленно транспорт на месте"/>
+<Translation Original="Auto-Flip" Replace="Автоматический переворот"/>
+<Translation Original="Auto flip your vehicle, if it's upside-down." Replace="Автоматическое переворачивание автомобиля, если он перевернут"/>
+<Translation Original="Indicator Lights" Replace="Световые индикаторы поворота"/>
+<Translation Original="Allows you to toggle vehicle indicator lights." Replace="Позволяет переключать световые индикаторы транспорта"/>
+<Translation Original="[NUM1] - Left" Replace="[NUM1] - Левый поворотник"/>
+<Translation Original="[NUM3] - Right" Replace="[NUM3] - Правый поворотник"/>
+<Translation Original="Cruise Control" Replace="Круиз контроль"/>
+<Translation Original="Your vehicle will keep it's speed automatically." Replace="Транспорт будет поддерживать скорость автоматически"/>
+<Translation Original="Slamm it (Low)" Replace="Ускорение (Слабое)"/>
+<Translation Original="Slightly increases your acceleration." Replace="Немного увеличивает ваше ускорение"/>
+<Translation Original="Slamm it (High)" Replace="Ускорение (Сильное)"/>
+<Translation Original="Increases your acceleration by a lot." Replace="Значительно увеличивает ваше ускорение"/>
+<Translation Original="Force Push" Replace="Рандомный удар по транспорту"/>
+<Translation Original="Applies random force to your vehicle." Replace="Удар с последуйщим отталкиванием транспорта"/>
+<Translation Original="Roll Down Windows" Replace="Опустить окна транспорта"/>
+<Translation Original="Rolls down all vehicle windows." Replace="Опускает все окна текущего транспорта"/>
+<Translation Original="Cargobob Magnet" Replace="Магнит для вертолёта Cargobob"/>
+<Translation Original="Enables the cargobob magnet." Replace="Включает магнит для грузовых Cargobob"/>
+<Translation Original="Clone Vehicle" Replace="Клонировать транспорт"/>
+<Translation Original="Creates a clone of your current vehicle." Replace="Создает клон вашего текущего автомобиля"/>
+<Translation Original="~r~Delete Vehicle" Replace="~r~Удалить текущий транспорт"/>
+<Translation Original="Deletes your current vehicle." Replace="Удалить транспорт в котором сидит персонаж"/>
+ 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Главное меню -> Транспорт -> Персонализация
+<Translation Original="Please enter a vehicle first." Replace="Для активации нужно находиться в машине"/>
+<Translation Original="Los Santos Customs" Replace="Автомастерская (Los Santos Customs)"/>
+<Translation Original="Mobile Los Santos Customs." Replace="Мобильная мастерская Los Santos Customs"/>
+<Translation Original="Benny's Original Motor Works" Replace="Автомастерская (Benny's Original Motor Works)"/>
+<Translation Original="Mobile Benny's Motorworks." Replace="Мобильная мастерская Benny's Motor Works"/>
+<Translation Original="Repair" Replace="Ремонт повреждений транспорта"/>
+<Translation Original="Fix current vehicle." Replace="Мгновенный ремонт повреждения транспорта"/>
+<Translation Original="Fully Tune" Replace="Максимальный тюнинг (Весь транспорт)"/>
+<Translation Original="Max upgrade current vehicle." Replace="Максимально возможный тюнинг всего транспорта"/>
+<Translation Original="Basic Tune" Replace="Основной тюнинг (Ходовая часть)"/>
+<Translation Original="Max upgrade current vehicle." Replace="Мотор | Тормоза | Трансмиссия..."/>
+<Translation Original="Random Tune" Replace="Случайный тюнинг всего (Рандом)"/>
+<Translation Original="Randomly upgrades current vehicle." Replace="Случайный подбор запчастей и установка на транспорт"/>
+<Translation Original="Stock Tune" Replace="Стоковый тюнинг (Весь транспорт)"/>
+<Translation Original="Applies stock tune to current vehicle." Replace="Вернуть транспорт в заводское состояние тюнинга"/>
+<Translation Original="Apply Dirt" Replace="Добавить грязь на кузов"/>
+<Translation Original="Apply dirt to current vehicle." Replace="Добавить на кузов большое количество грязи"/>
+<Translation Original="Wash" Replace="Убрать грязь с кузова"/>
+<Translation Original="Wash current vehicle." Replace="Отчистить весь кузов транспорта от грязи"/>
+
+
+
+Главное меню -> Транспорт -> Персонализация -> Los Santos Customs
+<Translation Original="Respray" Replace="Окраска"/>
+<Translation Original="Neon" Replace="Неоновые наборы"/>
+<Translation Original="Wheels" Replace="Колёса"/>
+<Translation Original="Armor" Replace="Броня"/>
+<Translation Original="Brakes" Replace="Тормоза"/>
+<Translation Original="Front Bumpers" Replace="Передний бампер"/>
+<Translation Original="Rear Bumpers" Replace="Задний бампер"/>
+<Translation Original="Engine" Replace="Двигатель"/>
+<Translation Original="Exhaust" Replace="Глушитель"/>
+<Translation Original="Fender" Replace="Крылья"/>
+<Translation Original="Grille" Replace="Решотка радиатора"/>
+<Translation Original="Roof" Replace="Крыша"/>
+<Translation Original="Skirts" Replace="Пороги"/>
+<Translation Original="Spoiler" Replace="Спойлер"/>
+<Translation Original="Suspension" Replace="Подвеска"/>
+<Translation Original="Transmission" Replace="Трансмиссия"/>
+<Translation Original="Chassis / Cage" Replace="Каркас безопасности"/>
+<Translation Original="Horn" Replace="Клаксон"/>
+<Translation Original="Unknown 21" Replace="Unknown 21"/>
+<Translation Original="Windows" Replace="Cтёкла"/>
+
+-----(Тип номерного знака)-------------------------------------------------
+
+<Translation Original="Blue On White May" Replace="Синий на белом 2"/>
+<Translation Original="Yellow on Black" Replace="Жёлтый на чёрном"/>
+<Translation Original="Yellow On Blue" Replace="Жёлтый на синем"/>
+<Translation Original="Blue On White Oct" Replace="Синий на белом 1"/>
+<Translation Original="Blue On White Ext" Replace="Синий на белом 3"/>
+<Translation Original="Yankton" Replace="Янктон"/>
+
+---------------------------------------------------------------------------
+
+<Translation Original="Text" Replace="Текст номерного знака"/>
+<Translation Original="Random Text" Replace="Рандомный текст номерного знака"/>
+<Translation Original="Extras" Replace="Дополнительно"/>
+<Translation Original="Turbo Tuning" Replace="Турбонаддув"/>
+<Translation Original="Xenon Lights" Replace="Ксеноновые фары"/>
+<Translation Original="Color" Replace="Цвет"/>
+<Translation Original="White Lights" Replace="Белый"/>
+<Translation Original="Blue Lights" Replace="Синий"/>
+<Translation Original="Electric Blue Lights" Replace="Электрический синий"/>
+<Translation Original="Mint Green Lights" Replace="Мятно-зеленый"/>
+<Translation Original="Lime Green Lights" Replace="Лаймово-зелёный"/>
+<Translation Original="Yellow Lights" Replace="Жёлтый"/>
+<Translation Original="Golden Shower Lights" Replace="Золотой дождь"/>
+<Translation Original="Orange Lights" Replace="Оранжевый"/>
+<Translation Original="Red Lights" Replace="Красный"/>
+<Translation Original="Hot Pink Lights" Replace="Ярко-розовый"/>
+<Translation Original="Purple Lights" Replace="Фиолетовый"/>
+<Translation Original="Blacklight Lights" Replace="Полуночно синий"/>
+
+Главное меню -> Транспорт -> Персонализация -> Los Santos Customs -> Окраска
+<Translation Original="Primary" Replace="Основной"/>
+<Translation Original="Secondary" Replace="Дополнительный"/>
+<Translation Original="Pearlescent" Replace="Перламутровый"/>
+<Translation Original="Coating" Replace="Цвет салона"/>
+<Translation Original="Dash Light" Replace="Цвет приборной панели"/>
+<Translation Original="Custom Paint" Replace="Пользовательский цвет"/>
+<Translation Original="Livery" Replace="Камуфляж пленка"/>
+<Translation Original="Enveff Scale" Replace="Возвраст пленки покрытия"/>
+<Translation Original="Rainbow Vehicle" Replace="Радужный цвет"/>
+<Translation Original="Progressive rainbow mode." Replace="Радужный цвет всего транспорта"/>
+<Translation Original="Paint Random" Replace="Случайный цвет"/>
+<Translation Original="Crew Emblem" Replace="Эмблема банды"/>
+<Translation Original="Crew Color" Replace="Цвет банды"/>
+
+Главное меню -> Транспорт -> Персонализация -> Los Santos Customs -> Окраска -> Основной и Дополнительный
+<Translation Original="Matte" Replace="Матовый"/>
+<Translation Original="Metallic" Replace="Металлик"/>
+<Translation Original="Metal" Replace="Металл"/>
+<Translation Original="Util" Replace="Утиль - ?"/>
+<Translation Original="Worn" Replace="Изношенный - ?"/>
+
+Главное меню -> Транспорт -> Персонализация -> Los Santos Customs -> Окраска -> Пользовательский цвет
+<Translation Original="Apply Color" Replace="Применить цвет"/>
+
+Главное меню -> Транспорт -> Персонализация -> Los Santos Customs -> Окраска -> Плёнка ливрея
+<Translation Original="Vehicle has no Liveries" Replace="Транспорт не имеет ливрей"/>
+
+Главное меню -> Транспорт -> Персонализация -> Los Santos Customs -> Неоновые наборы
+<Translation Original="Vehicle Neon" Replace="Cторона подсветки"/>
+<Translation Original="-" Replace="-"/>
+<Translation Original="Left" Replace="Слева"/>
+<Translation Original="Right" Replace="Справа"/>
+<Translation Original="Front" Replace="Спереди"/>
+<Translation Original="Back" Replace="Сзади"/>
+<Translation Original="Left & Right" Replace="Слева и справа"/>
+<Translation Original="Front & Back" Replace="Спереди и сзади"/>
+<Translation Original="All on" Replace="Все стороны"/>
+<Translation Original="Rainbow Neons" Replace="Разноцветная подсветка"/>
+<Translation Original="Set Red color value." Replace="Установите значение красного цвета"/>
+<Translation Original="Set Green color value." Replace="Установите значение зелёного цвета"/>
+<Translation Original="Set Blue color value." Replace="Установите значение синего цвета"/>
+
+Главное меню -> Транспорт -> Персонализация -> Los Santos Customs -> Колёса
+<Translation Original="Rims" Replace="Диски"/>
+<Translation Original="Rim Color" Replace="Цвет дисков"/>
+<Translation Original="Bulletproof Tyres" Replace="Пуленепробиваемые покрышки"/>
+<Translation Original="Low Grip Tyres" Replace="Покрышки с низким сцеплением"/>
+<Translation Original="Enable Custom Tyre Smoke" Replace="Пользовательский дым от покрышек"/>
+<Translation Original="Rainbow Tyre Smoke" Replace="Радужный цвет дыма"/>
+
+Главное меню -> Транспорт -> Персонализация -> Los Santos Customs -> Колёса -> Диски
+<Translation Original="Sport" Replace="Спорт"/>
+<Translation Original="Muscle" Replace="Маслкар"/>
+<Translation Original="Lowrider" Replace="Лоурайдер"/>
+<Translation Original="SUV" Replace="Внедорожник"/>
+<Translation Original="Off-road" Replace="Вездеход"/>
+<Translation Original="Tuner" Replace="Тюнер"/>
+<Translation Original="High End" Replace="Эксклюзивные"/>
+<Translation Original="Benny's Originals" Replace="Bennu's Originals"/>
+<Translation Original="Benny's Bespoke" Replace="Заказной от Bennu's"/>
+<Translation Original="Race Wheels" Replace="Гоночные"/>
+<Translation Original="Street Wheels" Replace="Уличные"/>
+<Translation Original="Track Wheels" Replace="Трековые"/>
+
+Главное меню -> Транспорт -> Персонализация -> Los Santos Customs -> Двигатель
+<Translation Original="Kill Engine" Replace="Уничтожить двигатель"/>
+<Translation Original="Kills you engine." Replace="Полностью выводит из строя мотор"/>
+<Translation Original="Break Engine" Replace="Сломать двигатель"/>
+<Translation Original="Breaks your engine." Replace="Устанавливает количество HP на 0"/>
+<Translation Original="Fix Engine" Replace="Отремонтировать двигатель"/>
+<Translation Original="Fixes your engine." Replace="Восстанавливает двигатель"/>
+<Translation Original="Set Health" Replace="Установить состояние"/>
+<Translation Original="Change Sound" Replace="Изменить звук двигателя"/>
+
+Главное меню -> Транспорт -> Персонализация -> Los Santos Customs ->
+<Translation Original="Horn 34" Replace="Клаксон 34"/>
+<Translation Original="Horn 35" Replace="Клаксон 35"/>
+<Translation Original="Horn 36" Replace="Клаксон 36"/>
+<Translation Original="Horn 38" Replace="Клаксон 38"/>
+<Translation Original="Horn 40" Replace="Клаксон 40"/>
+<Translation Original="Horn 42" Replace="Клаксон 42"/>
+<Translation Original="Horn 44" Replace="Клаксон 44"/>
+<Translation Original="Horn 46" Replace="Клаксон 46"/>
+<Translation Original="Horn 48" Replace="Клаксон 48"/>
+<Translation Original="Horn 50" Replace="Клаксон 50"/>
+<Translation Original="Horn 52" Replace="Клаксон 52"/>
+<Translation Original="Horn 54" Replace="Клаксон 54"/>
+<Translation Original="Horn 56" Replace="Клаксон 56"/>
+
+Главное меню -> Транспорт -> Персонализация -> Los Santos Customs -> Окна
+<Translation Original="Dark Smoke" Replace="Сильное затемнение"/>
+<Translation Original="Light Smoke" Replace="Слабое затемнение"/>
+
+-----(Общий список цветов)---------------------------------------------------------
+ 		Хромированный
+
+<Translation Original="Chrome" Replace="Хромированный"/>
+
+-----(Классический и металлик)-----------------------------------------------------
+
+<Translation Original="Black" Replace="Чёрный"/>
+<Translation Original="Carbon Black" Replace="Карбоновый чёрный"/>
+<Translation Original="Graphite Black" Replace="Графит"/>
+<Translation Original="Anthracite Black" Replace="Антрацит"/>
+<Translation Original="Black Steel" Replace="Чёрная сталь"/>
+<Translation Original="Dark Steel" Replace="Тёмная сталь"/>
+<Translation Original="Silver" Replace="Серебро"/>
+<Translation Original="Bluish Silver" Replace="Синеватое серебро"/>
+<Translation Original="Rolled Steel" Replace="Катаная сталь"/>
+<Translation Original="Shadow Silver" Replace="Тёмное серебро"/>
+<Translation Original="Stone Silver" Replace="Серебристо-каменный"/>
+<Translation Original="Midnight Silver" Replace="Полуночное серебро"/>
+<Translation Original="Cast Iron Silver" Replace="Серебристо-литой"/>
+<Translation Original="Red" Replace="Красный"/>
+<Translation Original="Torino Red" Replace="Красный Torino"/>
+<Translation Original="Formula Red" Replace="Красный Formula"/>
+<Translation Original="Lava Red" Replace="Лавово-красный"/>
+<Translation Original="Blaze Red" Replace="Огненно-красный"/>
+<Translation Original="Grace Red" Replace="Красный Grace"/>
+<Translation Original="Garnet Red" Replace="Гранатовый"/>
+<Translation Original="Sunset Red" Replace="Закатно-красный"/>
+<Translation Original="Cabernet Red" Replace="Каберне"/>
+<Translation Original="Wine Red" Replace="Винно-красный"/>
+<Translation Original="Candy Red" Replace="Яблочно-красный"/>
+<Translation Original="Hot Pink" Replace="Ярко-розовый"/>
+<Translation Original="Pfister Pink" Replace="Розовый Pfister"/>
+<Translation Original="Salmon Pink" Replace="Лососево-розовый"/>
+<Translation Original="Sunrise Orange" Replace="Рассветно-оранжевый"/>
+<Translation Original="Orange" Replace="Оранжевый"/>
+<Translation Original="Bright Orange" Replace="Ярко-оранжевый"/>
+<Translation Original="Gold" Replace="Золотой"/>
+<Translation Original="Bronze" Replace="Бронзовый"/>
+<Translation Original="Yellow" Replace="Жёлтый"/>
+<Translation Original="Race Yellow" Replace="Гоночный жёлтый"/>
+<Translation Original="Dew Yellow" Replace="Желтый Dew"/>
+<Translation Original="Dark Green" Replace="Тёмно-зелёный"/>
+<Translation Original="Racing Green" Replace="Гоночный зелёный"/>
+<Translation Original="Sea Green" Replace="Морской зелёный"/>
+<Translation Original="Olive Green" Replace="Оливково-зелёный"/>
+<Translation Original="Bright Green" Replace="Ярко-зелёный"/>
+<Translation Original="Gasoline Green" Replace="Зелёный"/>
+<Translation Original="Lime Green" Replace="Лаймово-зелёный"/>
+<Translation Original="Midnight Blue" Replace="Полуночный синий"/>
+<Translation Original="Galaxy Blue" Replace="Космический синий"/>
+<Translation Original="Dark Blue" Replace="Тёмно-синий"/>
+<Translation Original="Saxon Blue" Replace="Саксонский синий"/>
+<Translation Original="Blue" Replace="Синий"/>
+<Translation Original="Mariner Blue" Replace="Синий Mariner"/>
+<Translation Original="Harbor Blue" Replace="Синий Harbor"/>
+<Translation Original="Diamond Blue" Replace="Бриллиантовый синий"/>
+<Translation Original="Surf Blue" Replace="Синий Surf"/>
+<Translation Original="Nautical Blue" Replace="Морской синий"/>
+<Translation Original="Racing Blue" Replace="Гоночный синий"/>
+<Translation Original="Ultra Blue" Replace="Ультра-синий"/>
+<Translation Original="Light Blue" Replace="Светло-синий"/>
+<Translation Original="Chocolate Brown" Replace="Шоколадно-коричневый"/>
+<Translation Original="Bison Brown" Replace="Коричневый Bison"/>
+<Translation Original="Creek Brown" Replace="Коричневый Creek"/>
+<Translation Original="Feltzer Brown" Replace="Коричневый Feltzer"/>
+<Translation Original="Maple Brown" Replace="Кленовый"/>
+<Translation Original="Beechwood Brown" Replace="Буковый"/>
+<Translation Original="Sienna Brown" Replace="Охра"/>
+<Translation Original="Saddle Brown" Replace="Светло-коричневый"/>
+<Translation Original="Moss Brown" Replace="Хаки"/>
+<Translation Original="Woodbeech Brown" Replace="Светло-бежевый"/>
+<Translation Original="Straw Brown" Replace="Соломенный"/>
+<Translation Original="Sandy Brown" Replace="Песочный"/>
+<Translation Original="Bleached Brown" Replace="Выцветший коричневый"/>
+<Translation Original="Schafter Purple" Replace="Пурпурный Schafter"/>
+<Translation Original="Spinnaker Purple" Replace="Пурпурный Spinnaker"/>
+<Translation Original="Midnight Purple" Replace="Полуночно-фиолетовый"/>
+<Translation Original="Bright Purple" Replace="Ярко-пурпурный"/>
+<Translation Original="Cream" Replace="Кремовый"/>
+<Translation Original="Ice White" Replace="Ледяной белый"/>
+<Translation Original="Frost White" Replace="Инистый белый"/>
+
+-----(Матовый)---------------------------------------------------------------------
+
+<Translation Original="Gray" Replace="Серый"/>
+<Translation Original="Light Gray" Replace="Светло-серый"/>
+<Translation Original="Dark Red" Replace="Тёмно-красный"/>
+<Translation Original="Lime Grees" Replace="Лаймово-зелёный"/>
+<Translation Original="Green" Replace="Зелёный"/>
+<Translation Original="Forest Green" Replace="Хаки"/>
+<Translation Original="Foliage Green" Replace="Лиственный"/>
+<Translation Original="Olive Drab" Replace="Оливковый"/>
+<Translation Original="Dark Earth" Replace="Земляной"/>
+<Translation Original="Desert Tan" Replace="Пустынный"/>
+
+-----(Металлик)--------------------------------------------------------------------
+
+<Translation Original="Brushed Steel" Replace="Сталь"/>
+<Translation Original="Brushed Black Steel" Replace="Тёмная сталь"/>
+<Translation Original="Brushed Aluminum" Replace="Алюминий"/>
+<Translation Original="Pure Gold" Replace="Чистое золото"/>
+<Translation Original="Brushed Gold" Replace="Начищенное золото"/>
+
+-----(Цвета дисков)----------------------------------------------------------------
+
+<Translation Original="Alloy" Replace="Сплав"/>
+<Translation Original="Carbon Black" Replace="Угольно-чёрный"/>
+<Translation Original="Anthracite Black" Replace="Антрацитный"/>
+<Translation Original="Stone Silver" Replace="Слиток серебра"/>
+<Translation Original="Frost White" Replace="Белый иней"/>
+<Translation Original="Salmon Pink" Replace="Оранжево-розовый"/>
+<Translation Original="Dark Copper" Replace="Тёмная медь"/>
+<Translation Original="Dark Ivory" Replace="Тёмная слоновая кость"/>
+<Translation Original="Dark Brown" Replace="Тёмно-коричневый"/>
+<Translation Original="Dark Earth" Replace="Земля"/>
+<Translation Original="Desert Tan" Replace="Пустыня"/>
+<Translation Original="Yellow" Replace="Желтый"/>
+<Translation Original="Race Yellow" Replace="Гоночный желтый"/>
+<Translation Original="Yellow Bird" Replace="Желтая птица"/>
+<Translation Original="Lime Green" Replace="Лайм"/>
+<Translation Original="Pea Green" Replace="Гороховый"/>
+<Translation Original="Royal Blue" Replace="Васильковый"/>
+<Translation Original="Baby Blue" Replace="Светло-голубой"/>
+<Translation Original="Bright Blue" Replace="Ярко-синий"/>
+<Translation Original="Flourescent Blue" Replace="Ультрамарин"/>
+<Translation Original="Slate Blue" Replace="Серо-синий"/>
+<Translation Original="Schafter Purple" Replace="Фиолетовый Schafter"/>
+
+-----(Цвет дыма покрышек)----------------------------------------------------------
+
+<Translation Original="White" Replace="Белый"/>
+<Translation Original="Purple" Replace="Фиолетовый"/>
+<Translation Original="Pink" Replace="Розовый"/>
+<Translation Original="Brown" Replace="Коричневый"/>
+
+-----(Цвет неона)------------------------------------------------------------------
+
+<Translation Original="Electric Blue" Replace="Электрический голубой"/>
+<Translation Original="Mint Green" Replace="Мятно-зеленый"/>
+<Translation Original="Golden Shower" Replace="Золотой дождь"/>
+<Translation Original="Pony Pink" Replace="Розовый пони"/>
+<Translation Original="Blacklight" Replace="Тёмно-синий"/>
+<Translation Original="Crew" Replace="Цвет банды"/>
+
+-----------------------------------------------------------------------------------
+
+Главное меню -> Транспорт -> Характеристики транспорта
+<Translation Original="Acceleration" Replace="Ускорение"/> Прошлое название: Множитель ускорения
+<Translation Original="Brake" Replace="Торможение"/> Прошлое название: Множитель торможения
+<Translation Original="Super Grip" Replace="Сильное притяжение"/>
+<Translation Original="Slide" Replace="Слабое притяжение"/>
+<Translation Original="Bypass Max Speed" Replace="Обойти ограничение скорости"/>
+<Translation Original="Force Max Speed" Replace="Ограничитель скорости"/>
+
+Главное меню -> Транспорт -> Акробатика транспорта
+<Translation Original="Add Parachute" Replace="Добавить парашют"/>
+<Translation Original="Add Nitro" Replace="Добавить нитро"/>
+<Translation Original="Front Flip" Replace="Кувырок вперёд"/>
+<Translation Original="Back Flip" Replace="Кувырок назад"/>
+<Translation Original="Kick Flip" Replace="Кувырок влево"/>
+<Translation Original="Heel Flip" Replace="Кувырок вправо"/>
+<Translation Original="Bunny Hop" Replace="Низкий прыжок"/>
+<Translation Original="Launch Up" Replace="Высокий прыжок"/>
+<Translation Original="Launch Crush" Replace="Резкое движение вниз"/>
+
+Главное меню -> Транспорт -> Создатель рампы
+<Translation Original="Front Ramp" Replace="Рампа вперёд"/>
+<Translation Original="Rear Ramp" Replace="Рампа назад"/>
+<Translation Original="Left Ramp" Replace="Рампа слева"/>
+<Translation Original="Right Ramp" Replace="Рампа справа"/>
+<Translation Original="Create Ramps" Replace="Создать рампу"/>
+<Translation Original="Delete Ramps" Replace="Удалить рампу"/>
+
+Главное меню -> Транспорт -> Спидометр
+<Translation Original="Speedometer (Textured)" Replace="Циферблатный варант"/>
+<Translation Original="Speedometer (Plate Text)" Replace="Номерной знак транспорта"/>
+
+Главное меню -> Транспорт -> Личный водитель
+<Translation Original="Spawn Chauffeur" Replace="Создать личного водителя"/>
+
+Главное меню -> Транспорт -> Оружие транспорта
+<Translation Original="Vehicle Lasers" Replace="Включить лазеры для наведения"/>
+<Translation Original="Draw two red lasers." Replace="Появляются два красных лазера от бампера транспорта"/>
+<Translation Original="Vehicle Weapon" Replace="Тип боеприпаса оружия"/>
+<Translation Original="Shoot bullets with every vehicle." Replace="Включи и выбери чем стрелять в машине"/>
+<Translation Original="[Right Mouse] - Shoot" Replace="[ПКМ] - Огонь"/>
+<Translation Original="Vehicle Rapid Fire" Replace="Скорострельная стрельба"/>
+<Translation Original="For vehicles with rockets." Replace="Скорострельная стрельба по транспортным средствам"/>
+<Translation Original="Only working for helicopters and planes." Replace="Можно сбрасывать бомбы в любом вертолете"/>
+<Translation Original="[Space] - Set Bomb" Replace="[Пробел] - Сбросить бомбы"/>
+
+Главное меню -> Транспорт -> Метка транспорта
+<Translation Original="Add Blip" Replace="Добавить метку "/>
+<Translation Original="Add blip to current vehicle." Replace="Добавить метку транспорту на карту"/>
+<Translation Original="Teleport to" Replace="Телепортировать в транспорт"/>
+<Translation Original="Teleports you to your blip vehicle." Replace="Телепортировать персонажа в транспорт"/>
+<Translation Original="Teleport to Me" Replace="Телепортировать к себе"/>
+<Translation Original="Teleports blip vehicle to yourself." Replace="Просто перемещает транспорт к себе"/>
+<Translation Original="Display Blip" Replace="Метка на экране"/>
+<Translation Original="Display your blip data." Replace="Добавляет метку на игровой экран над транспортом"/>
+<Translation Original="Lock Vehicle" Replace="Закрыть транспорт"/>
+<Translation Original="Locks blip vehicle." Replace="Полностью закрыть транспорт от всех"/>
+
+Главное меню -> Транспорт -> Наземный автопилот
+<Translation Original="Drive to Waypoint" Replace="Поездка к путевой точке"/>
+<Translation Original="Vehicle drives to ~p~marker~s~." Replace="Включить автопилот и отправиться к ~p~метке"/>
+<Translation Original="Drive Wander" Replace="Рандомный маршрут"/>
+<Translation Original="Your vehicle drives to a random location." Replace="Рандомный маршрут на выбор AI"/>
+
+Главное меню -> Транспорт -> Воздушный автопилот
+<Translation Original="Please enter a plane." Replace="Для активации нужно находиться в самолёте"/>
+<Translation Original="AP (1)" Replace="Включить автопилот"/>
+<Translation Original="Enable computer plane control." Replace="Обычный автопилот"/>
+<Translation Original="AP (2) Fly to Waypoint" Replace="Автопилот к путевой точке"/>
+<Translation Original="Computer will fly the plane to waypoint." Replace="Компьютер направит самолет к путевой точке"/>
+<Translation Original="Don't use together with ACS." Replace="Не использовать вместе с Антиколизией"/>
+<Translation Original="ACS" Replace="Система антиколизии"/>
+<Translation Original="Anti collision system." Replace="Помогает не врезаться во что нибуть"/>
+<Translation Original="Big planes" Replace="Режим: Большой самолёт"/>
+<Translation Original="For big planes like Jet's." Replace="Для больших самолетов автопилоту проще"/>
+<Translation Original="Altitude" Replace="Высота"/>
+<Translation Original="Climb" Replace="Подьём на высоту"/>
+<Translation Original="Computer will climb to altitude" Replace="Компьютер поднимется на высоту"/>
+<Translation Original="Descent" Replace="Спуск на высоту"/>
+<Translation Original="Computer will descent to altitude" Replace="Компьютер спустится на высоту"/>
+<Translation Original="Apply" Replace="Применить"/>
+<Translation Original="Enable computer alt. control." Replace="[ALt+Ctrl] - Включить компьютер"/>
+<Translation Original="New Speed" Replace="Новая скорость"/>
+<Translation Original="Computer will set plane speed." Replace="Компьютер установит скорость самолета"/>
+<Translation Original="Approach" Replace="Тип управления"/>
+<Translation Original="Computer will land on destination automatically." Replace="Компьютер приземлится в пункте назначения сам"/>
+
+Главное меню -> Транспорт -> Партиклы транспорта
+<Translation Original="Plane Smoke" Replace="Дым самолёта"/>
+<Translation Original="Use smoke countermeasures." Replace="Используйте средство: Дымовая завеса"/>
+<Translation Original="Plane Smoke Color" Replace="Цвет дыма самолета"/>
+<Translation Original="Wheel Effects" Replace="Эффекты колёс"/>
+
+Главное меню -> Транспорт -> Двери транспорта
+<Translation Original="Driver Door" Replace="Водительская дверь"/>
+<Translation Original="Open driver door." Replace="Открыть или закрыть водительскую дверь"/>
+<Translation Original="Passenger Door" Replace="Пассажирская дверь"/>
+<Translation Original="Open passenger door." Replace="Открыть или закрыть пассажирскую дверь"/>
+<Translation Original="Rear Left" Replace="Задняя левая дверь"/>
+<Translation Original="Open rear left door." Replace="Открыть или закрыть заднюю левую дверь"/>
+<Translation Original="Rear Right" Replace="Задняя правая дверь"/>
+<Translation Original="Open rear right door." Replace="Открыть или закрыть заднюю правую дверь"/>
+<Translation Original="Hood" Replace="Капот"/>
+<Translation Original="Open hood." Replace="Открыть или закрыть капот транспорта"/>
+<Translation Original="Trunk" Replace="Багажник"/>
+<Translation Original="Open trunk." Replace="Открыть или закрыть багажник транспорта"/>
+<Translation Original="All" Replace="Открыть | Закрыть все"/>
+<Translation Original="Open all vehicle doors." Replace="Открыть или закрыть все двери и капот"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+Главное меню -> Телепорт
+<Translation Original="Teleport to Waypoint" Replace="Телепортация на точку маршрута"/>
+<Translation Original="Teleport to ~p~marker~s~ on the map." Replace="Телепортация на ~p~метку~s~, отмеченную на карте"/>
+<Translation Original="Parachute to Waypoint" Replace="Парашутный спуск на точку маршрута"/>
+<Translation Original="Parachute to ~p~marker~s~ on the map." Replace="Парашутный спуск на ~p~метку~s~, отмеченную на карте"/>
+<Translation Original="Remove Waypoint" Replace="Удалить точку маршрута"/>
+<Translation Original="Teleport to Objective" Replace="Телепорт к чекпоинту"/>
+<Translation Original="Teleport to ~y~circles~s~ on the map." Replace="Телепортировать персонажа к ~y~чекпоинту~s~"/>
+<Translation Original="Let's you put in custom coordinates." Replace="Введите собственные координаты вручную"/>
+<Translation Original="Load Custom" Replace="Пользовательские локации"/>
+<Translation Original="Folder: RampageFiles\Saved Teleports." Replace="Путь: Grand Theft Auto V\RampageFiles\Saved Teleports"/>
+<Translation Original="Animation" Replace="Анимация"/>
+<Translation Original="Enable Teleport ease animation." Replace="Вид анимации при телепортации"/>
+<Translation Original="Cam Ease" Replace="Простая камера"/>
+<Translation Original="Cloud Transition" Replace="Переход через облака"/>
+<Translation Original="Story Mode" Replace="Cюжетный режим"/>
+<Translation Original="Story related teleports." Replace="Места, связанные с сюжетом"/>
+<Translation Original="Apartments" Replace="Квартиры"/>
+<Translation Original="Apartment buildings." Replace="Многоквартирные дома"/>
+<Translation Original="Shops" Replace="Магазины"/>
+<Translation Original="All shops in San Andreas." Replace="Все магазины San Andreas"/>
+<Translation Original="Interiors" Replace="Интерьеры"/>
+<Translation Original="Common interiors." Replace="Основные интерьеры"/>
+<Translation Original="Landmarks" Replace="Достопримечательности"/>
+<Translation Original="Most used teleports." Replace="Самые используемые телепорты"/>
+<Translation Original="Underwater" Replace="Под водой"/>
+<Translation Original="Underwater locations." Replace="Подводные локации"/>
+<Translation Original="Glitched" Replace="Глитч места"/>
+<Translation Original="Map glitches." Replace="Места куда можно попасть обычным способом"/>
+<Translation Original="Blips" Replace="Метки"/>
+<Translation Original="Teleport to all active blips." Replace="Телепортируйтесь ко всем активным точкам"/>
+<Translation Original="Forward" Replace="Вперед"/>
+<Translation Original="Teleport yourself forward" Replace="Телепортировать игрока вперед"/>
+<Translation Original="Backward" Replace="Назад"/>
+<Translation Original="Teleport yourself backward" Replace="Телепортировать игрока назад"/>
+<Translation Original="Last Vehicle" Replace="Последний транспорт"/>
+<Translation Original="Teleport into last driven vehicle." Replace="Телепротироваться в последний управляемый транспорт"/>
+<Translation Original="Nearest Vehicle" Replace="Ближайший транспорт"/>
+<Translation Original="Teleport into nearest vehicle." Replace="Телепротироваться в ближайший транспорт"/>
+<Translation Original="Personal Vehicle" Replace="Личный транспорт"/>
+<Translation Original="Teleport into personal vehicle." Replace="Телепортироваться в личный транспорт"/>
+
+-----(Сюжетный режим)------------------------------------------------------------------------------------------
+
+<Translation Original="Michael's House" Replace="Дом Майкла"/>
+<Translation Original="Franklin's House (New)" Replace="Дом Франклина (Новый)"/>
+<Translation Original="Franklin's House (Old)" Replace="Дом Франклина (Старый)"/>
+<Translation Original="Trevor's House" Replace="Дом Тревора (Старый)"/>
+<Translation Original="Trevor's House (2)" Replace="Дом Тревора (Новый)"/>
+<Translation Original="Trevor's Office" Replace="Офис Тревора (Стриптиз клуб)"/>
+<Translation Original="Trevor's Meth Lab" Replace="Лаборатория метамфетамина Тревора"/>
+<Translation Original="Floyd's House" Replace="Дом Флойда"/>
+<Translation Original="Lester's House" Replace="Дом Лестера"/>
+<Translation Original="Janitors Apartment" Replace="Квартира дворников"/>
+<Translation Original="Aunt Denise's House" Replace="Дом тёти Дениз"/>
+<Translation Original="Prison Cell" Replace="Тюремная камера"/>
+
+-----(Квартиры)------------------------------------------------------------------------------------------------
+
+<Translation Original="Eclipse Tower" Replace="Eclipse Tower"/>
+<Translation Original="Tinsel Tower" Replace="Tinsel Tower"/>
+<Translation Original="Richmond Heights" Replace="Richmond Heights"/>
+<Translation Original="Weazel Plaza" Replace="Weazel Plaza"/>
+<Translation Original="Alta St" Replace="Alta St"/>
+<Translation Original="Del Perro" Replace="Del Perro"/>
+<Translation Original="Integriry Way" Replace="Integriry Way"/>
+
+-----(Магазины)------------------------------------------------------------------------------------------------
+
+<Translation Original="Ammunation" Replace="Оружейный магазин (Ammunation)"/>
+<Translation Original="Los Santos Customs" Replace="Автомастерская (Los Santos Customs)"/>
+<Translation Original="Benny's Motorworks" Replace="Автомастерская (Benny's Original Motor Works)"/>
+<Translation Original="Deluxe Clothes Store" Replace="Магазин одежды (Deluxe Clothes Store)"/>
+<Translation Original="Ponsonbys Clothing" Replace="Магазин одежды (Ponsonbys Clothing)"/>
+<Translation Original="Barber Shop" Replace="Парикмахерская (Barber Shop)"/>
+<Translation Original="Tattoo Parlor" Replace="Тату-салон (Tattoo Parlor)"/>
+<Translation Original="Mask Shop" Replace="Магазин масок (Mask Shop)"/>
+<Translation Original="Shop LTD Gasoline" Replace="Магазин LTD Gasoline"/>
+<Translation Original="Shop 24/7 Supermarket" Replace="Магазин 24/7"/>
+<Translation Original="Shop Robs Liquor" Replace="Магазин Robs Liquor"/>
+<Translation Original="Shop Liquor Ace" Replace="Магазин Liquor Ace"/>
+
+-----(Интерьеры)-----------------------------------------------------------------------------------------------
+
+<Translation Original="FIB Building Top" Replace="Верхний этаж здания FIB"/>
+<Translation Original="Eclipse Tower Garage" Replace="Гараж небоскреба Eclipse"/>
+<Translation Original="Tinsel Tower Garage" Replace="Гараж небоскреба Tinsel"/>
+<Translation Original="Richmond Garage" Replace="Гараж Richmond"/>
+<Translation Original="Weazel Garage" Replace="Гараж Weazel"/>
+<Translation Original="Alta St Garage" Replace="Гараж Alta St"/>
+<Translation Original="Del Perro Garage" Replace="Гараж Del Perro"/>
+<Translation Original="Integrity Way Garage" Replace="Гараж Integrity Way"/>
+<Translation Original="Strip Club" Replace="Стрип-клуб"/>
+<Translation Original="Prison" Replace="Тюрьма"/>
+<Translation Original="Vanilla Unicorn Office" Replace="Офис Vanilla Unicorn"/>
+<Translation Original="Pazific Standard Bank Vault" Replace="Хранилище банка Pazific Standard"/>
+<Translation Original="Comedy Club" Replace="Комедийный клуб"/>
+<Translation Original="Humane Labs" Replace="Лаборатория Humane"/>
+<Translation Original="Humane Labs Tunnel" Replace="Тунель лаборатории Humane"/>
+<Translation Original="IAA Office" Replace="Офис IAA"/>
+<Translation Original="Torture Room" Replace="Комната пыток"/>
+<Translation Original="Mine Shaft" Replace="Шахта"/>
+<Translation Original="Secret Tunnel" Replace="Секретный тунель"/>
+<Translation Original="400k Garage" Replace="Гараж Eclipse Tower"/>
+
+-----(Достопримечательности)-----------------------------------------------------------------------------------
+
+<Translation Original="Airport Entrance" Replace="Вход в аэропорт"/>
+<Translation Original="Airport Runway" Replace="Взлетно-посадочная полоса аэропорта"/>
+<Translation Original="Altruist Cult Camp" Replace="Лагерь аультруистического культа"/>
+<Translation Original="Calafia Train Bridge" Replace="Железнодорожный мост (Calafia)"/>
+<Translation Original="Cargo Ship" Replace="Грузовое судно (Терминал)"/>
+<Translation Original="Chumash Historic Family Pier" Replace="Исторический семейный причал (Chumash)"/>
+<Translation Original="Devin Weston's House" Replace="Дом Девина Уэстона"/>
+<Translation Original="El Burro Heights" Replace="Высота (El Burro)"/>
+<Translation Original="Elysian Island" Replace="Осторв (Elysian)"/>
+<Translation Original="Far North San Andreas" Replace="Самая дальняя северная точка San Andreas"/>
+<Translation Original="Ferris Wheel" Replace="Колесо обозрения (Пирс)"/>
+<Translation Original="Fort Zancudo (Opened)" Replace="Военная база (Открыт)"/>
+<Translation Original="Fort Zancudo Tower" Replace="Военная база (Башня)"/>
+<Translation Original="Jetsam" Replace="Терминал (Jetsam)"/>
+<Translation Original="Jolene Cranley-Evans Ghost" Replace="Призрак Джолин Крэнли-Эванс"/>
+<Translation Original="Kortz Center" Replace="Учереждение (Kortz Center)"/>
+<Translation Original="Marlowe Vineyards" Replace="Виноградники (Марлоу)"/>
+<Translation Original="McKenzie Airfield" Replace="Аэродром Маккензи"/>
+<Translation Original="Merryweather Dock" Replace="Доки (Мэриуэзер)"/>
+<Translation Original="Mineshaft" Replace="Шахта (Грейт-Чапаррал)"/>
+<Translation Original="Life Invader Building Roof" Replace="Крыша здания Life Invader"/>
+<Translation Original="NOOSE Headquarters" Replace="Штаб-квартира NOOSE"/>
+<Translation Original="Pacific Standard Bank" Replace="Банк (Pacific Standard)"/>
+<Translation Original="Paleto Bay Pier" Replace="Пирс (Палето-Бэй)"/>
+<Translation Original="Playboy Mansion" Replace="Особняк (Playboy)"/>
+<Translation Original="Police Station" Replace="Полицейский участок (Мишн-Роу)"/>
+<Translation Original="Quarry" Replace="Карьер (Дэвис-Кварц)"/>
+<Translation Original="Satellite Dishes" Replace="Спутниковые тарелки"/>
+<Translation Original="Meth Lab" Replace="Лаборатория метамфетамина"/>
+<Translation Original="Weed Farm" Replace="Ферма Марьиванны"/>
+<Translation Original="Wind Farm" Replace="Ветряная электростанция"/>
+
+-----(Под водой)-----------------------------------------------------------------------------------------------
+
+<Translation Original="Underwater WW2 Tank" Replace="Затонувший танк времен Второй мировой"/>
+<Translation Original="Dead Sea Monster" Replace="Кости подводного монстра"/>
+<Translation Original="Underwater UFO" Replace="Подводное НЛО"/>
+<Translation Original="Underwater Hatch" Replace="Люк под водой"/>
+<Translation Original="Sunken Plane" Replace="Затонувший самолет"/>
+<Translation Original="Sunken Cargo Ship" Replace="Затонувший грузовой корабль"/>
+
+-----(Глитч места)---------------------------------------------------------------------------------------------
+
+<Translation Original="Building Glitch" Replace="Глюк здания"/>
+<Translation Original="Inside Store" Replace="Внутри магазина"/>
+<Translation Original="Vesupucci House" Replace="Дом Веспуччи"/>
+<Translation Original="City Wall Glitch" Replace="Глюк City Wall"/>
+<Translation Original="Under the bridge Glitch" Replace="Глюк под мостом"/>
+<Translation Original="FIB Roof Glitch" Replace="Глюк FIB крыша"/>
+<Translation Original="Police Station Glitch" Replace="Глюк полицейского участка"/>
+<Translation Original="Behind Bar In Strip Club" Replace="За баром в Стрип-клубе"/>
+<Translation Original="Inside Casino" Replace="Внутри казино"/>
+<Translation Original="Beach House" Replace="Пляжный домик"/>
+<Translation Original="Under Roof" Replace="Под крышей"/>
+
+-----(Общие места)---------------------------------------------------------------------------------------------
+
+<Translation Original="Special" Replace="Особое"/>
+<Translation Original="Mount Chiliad" Replace="Гора Чилиад"/>
+<Translation Original="Mount Gordo" Replace="Гора Гордо"/>
+<Translation Original="Maze Bank Roof" Replace="Крыша (Maze Bank)"/>
+<Translation Original="Military Base" Replace="Военная база"/>
+<Translation Original="Zancudo Tower" Replace="Башня в военной базе"/>
+<Translation Original="Airport" Replace="Аэропорт (Los Santos)"/>
+<Translation Original="Airport Office" Replace="Офис аэропорта (Del Perro)"/>
+<Translation Original="Waterfall" Replace="Водопад"/>
+<Translation Original="Beach" Replace="Пляж (Del Perro)"/>
+<Translation Original="Mors Mutual Insurance" Replace="Стоянка (Mors Mutual)"/>
+<Translation Original="FIB" Replace="Федеральное агенство (FIB)"/>
+<Translation Original="Human Labs" Replace="Лаборатория (Human Labs)"/>
+<Translation Original="MMI" Replace="Офис (Mors Mutual)"/>
+<Translation Original="Sandy Shores Airfield" Replace="Аэродром (Sandy Shorse)"/>
+<Translation Original="Acadius Tower" Replace="Башня Аркадиус"/>
+<Translation Original="Del Perro Pier" Replace="Пирс (Del Perro)"/>
+<Translation Original="Race Track" Replace="Арена (Казино Diamond)"/>
+<Translation Original="Parachute Jump" Replace="Мост (Kassidy)"/>
+<Translation Original="High in the Sky" Replace="Самая высокая точка"/>
+<Translation Original="Most Northerly Point" Replace="Самая северная точка"/>
+<Translation Original="Vinewood Bowl Stage" Replace="Сцена (Vinewood)"/>
+<Translation Original="Sisyphus Theater Stage" Replace="Сцена театра (Sisyphus)"/>
+<Translation Original="Dam 1" Replace="Дамба возле (Казино Diamond)"/>
+<Translation Original="Dam 2" Replace="Дамба в центре карты (Los Santos)"/>
+<Translation Original="Cave" Replace="Пещера"/>
+<Translation Original="Farest Island North" Replace="Дальний северный осторв"/>
+<Translation Original="Farest Island South" Replace="Дальний южный остров"/>
+<Translation Original="Flight School" Replace="Летная школа (Los Santos)"/>
+<Translation Original="Tram Station" Replace="Трамвайная остановка"/>
+<Translation Original="Golf" Replace="Гольф"/>
+<Translation Original="Stage" Replace="Сцена (Box Office)"/>
+<Translation Original="Drift Mountain" Replace="Дрифт гора"/>
+<Translation Original="Construction Building" Replace="Строящийся дом (Los Santos)"/>
+<Translation Original="Trevor's Airfield" Replace="Аэродром Тревора"/>
+<Translation Original="Out To Sea" Replace="В море"/>
+<Translation Original="Island" Replace="Остров"/>
+<Translation Original="Maze Bank Arena Roof" Replace="Крыша арены (Maze Bank)"/>
+<Translation Original="Rebel Radio" Replace="Повстанческое радио"/>
+<Translation Original="Cannibal Camp" Replace="Лагерь альтруистов"/>
+<Translation Original="Cannibal Camp Roof" Replace="Лагерь альтруистов (Крыша)"/>
+<Translation Original="Cannibal Mountain top" Replace="Лагерь альтруистов (Вершина горы)"/>
+<Translation Original="Submarine Location" Replace="Пристань подводных лодок"/>
+
+---------------------------------------------------------------------------------------------------------------
+
+Описание локаций
+<Translation Original="Location: Сан-Андреас" Replace="Локация: Сан-Андреас"/>
+<Translation Original="Location: Заповедник горы Чилиад" Replace="Локация: Заповедник горы Чилиад"/>
+<Translation Original="Location: Арена Maze Bank" Replace="Локация: Арена Maze Bank"/>
+<Translation Original="Location: Бухта Палето" Replace="Локация: Бухта Палето"/>
+<Translation Original="Location: Гранд-Сенора" Replace="Локация: Гранд-Сенора"/>
+<Translation Original="Location: Галилео-Парк" Replace="Локация: Галилео-Парк"/>
+<Translation Original="Location: Гольф-клуб" Replace="Локация: Гольф-клуб"/>
+<Translation Original="Location: Дэвис" Replace="Локация: Девис"/>
+<Translation Original="Location: Тонгва-Хиллз" Replace="Локация: Тонгва-Хиллз"/>
+<Translation Original="Location: Тихий океан" Replace="Локация: Тихий океан"/>
+<Translation Original="Location: Гора Чилиад" Replace="Локация: Гора Чилиад"/>
+<Translation Original="Location: Гора Гордо" Replace="Локация: Гора Гордо"/>
+<Translation Original="Location: Пиллбокс-Хилл" Replace="Локация: Пиллбокс-Хилл"/>
+<Translation Original="Location: Форт-Занкудо" Replace="Локация: Форт-Занкудо"/>
+<Translation Original="Location: Международный аэропорт Лос-Сантос" Replace="Локация: Международный аэропорт Лос-Сантос"/>
+<Translation Original="Location: Каньон Ратон" Replace="Локация: Каньон Ратон"/>
+<Translation Original="Location: Дель-Перро" Replace="Локация: Дель-Перро"/>
+<Translation Original="Location: Дель-Перро-Бич" Replace="Локация: Дель-Перро-Бич"/>
+<Translation Original="Location: Строберри" Replace="Локация: Строберри"/>
+<Translation Original="Location: Лаборатория Humane Labs and Research" Replace="Локация: Лаборатория Humane Labs and Research"/>
+<Translation Original="Location: Пустыня Гранд-Сенора" Replace="Локация: Гранд-Сенора"/>
+<Translation Original="Location: Гоночная трасса Вайнвуда" Replace="Локация: Гоночная трасса Вайнвуда"/>
+<Translation Original="Location: Кэссиди-Крик" Replace="Локация: Кэссиди-Крик"/>
+<Translation Original="Location: Сан Андреас" Replace="Локация: Сан Андреас"/>
+<Translation Original="Location: Вайнвуд-Хиллз" Replace="Локация: Вайнвуд-Хиллз"/>
+<Translation Original="Location: Лэнд-экт-дэм" Replace="Локация: Лэнд-экт-дэм"/>
+<Translation Original="Location: Рокфорд-Хиллз" Replace="Локация: Рокфорд-Хиллз"/>
+<Translation Original="Location: Сэнди-Шорс" Replace="Локация: Сэнди-Шорс"/>
+<Translation Original="Location: Ла-Пуэрта" Replace="Локация: Ла-Пуэрта"/>
+<Translation Original="Location: Эль-Бурро-Хайтс" Replace="Локация: Эль-Бурро-Хайтс"/>
+<Translation Original="Location: Западный Вайнвуд" Replace="Локация: Западный Вайнвуд"/>
+<Translation Original="Location: Тюрьма Болингброук" Replace="Локация: Тюрьма Болингброук"/>
+<Translation Original="Location: Хавик" Replace="Локация: Хавик"/>
+<Translation Original="Location: Бертон" Replace="Локация: Бертон"/>
+<Translation Original="Location: Веспуччи" Replace="Локация: Веспуччи"/>
+<Translation Original="Location: Центр Вайнвуда" Replace="Локация: Центр Вайнвуда"/>
+<Translation Original="Location: Веспуччи-Бич" Replace="Локация: Веспуччи-Бич"/>
+<Translation Original="Location: Мурьета-Хайтс" Replace="Локация: Мурьета-Хайтс"/>
+<Translation Original="Location: Маленький Сеул" Replace="Локация: Маленький Сеул"/>
+<Translation Original="Location: Каналы Веспуччи" Replace="Локация: Каналы Веспуччи"/>
+<Translation Original="Location: Морнингвуд" Replace="Локация: Морнингвуд"/>
+<Translation Original="Location: Миррор-Парк" Replace="Локация: Миррор-Парк"/>
+<Translation Original="Location: Татавиамские горы" Replace="Локация: Татавиамские горы"/>
+<Translation Original="Location: Ричман-Глен" Replace="Локация: Ричман-Глен"/>
+<Translation Original="Location: Каньон Бэнхэм" Replace="Локация: Каньон Бэнхэм"/>
+<Translation Original="Location: Чумаш" Replace="Локация: Чумаш"/>
+<Translation Original="Location: Хармони" Replace="Локация: Хармони"/>
+<Translation Original="Location: Грейпсид" Replace="Локация: Грейпсид"/>
+<Translation Original="Location: Бэннинг" Replace="Локация: Бэннинг"/>
+<Translation Original="Location: Грейт-Чапаррал" Replace="Локация: Грейт-Чапаррал"/>
+<Translation Original="Location: Терминал" Replace="Локация: Терминал"/>
+<Translation Original="Location: Элизиан-Айленд" Replace="Локация: Элизиан-Айленд"/>
+<Translation Original="Location: Пасифик-Блаффс" Replace="Локация: Пасифик-Блаффс"/>
+<Translation Original="Location: Н. У. П." Replace="Локация: Н. У. П."/>
+<Translation Original="Location: Ричман" Replace="Локация: Ричман"/>
+<Translation Original="Location: Мишн-Роу" Replace="Локация: Мишн-Роу"/>
+<Translation Original="Location: Дэвис-Кварц" Replace="Локация: Дэвис-Кварц"/>
+<Translation Original="Location: Ветряная ферма Ron Alternates" Replace="Локация: Ветряная ферма Ron Alternates"/>
+<Translation Original="Location: Ла-Меса" Replace="Локация: Ла-Меса"/>
+<Translation Original="Location: Лес Палето" Replace="Локация: Лес Палето"/>
+<Translation Original="Location: Палето-Бэй" Replace="Локация: Палето-Бэй"/>
+<Translation Original="Location: Текстайл-Сити" Replace="Локация: Текстайл-Сити"/>
+<Translation Original="Location: Сайпрес-Флэтс" Replace="Локация: Сайпрес-Флэтс"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+Информация о транспорте
+<Translation Original="Top Speed" Replace="Скорость"/>
+<Translation Original="Braking" Replace="Торможение"/>
+<Translation Original="Traction" Replace="Сцепление"/>
+
+Главное меню -> Спавнер
+<Translation Original="Spawn every vehicle you want." Replace="Создайте любой транспорт которой вы хотите"/>
+<Translation Original="Objects" Replace="Объекты"/>
+<Translation Original="Spawn every object you want." Replace="Создайте любой объект которой вы хотите"/>
+<Translation Original="Peds" Replace="Пешеходы"/>
+<Translation Original="Spawn every ped you want." Replace="Создайте любого пешехода которого вы хотите"/>
+
+Главное меню -> Спавнер -> Транспорт
+<Translation Original="Spawner Settings" Replace="Настройки спавнера"/>
+<Translation Original="Input vehicle name or hash." Replace="Введите название автомобиля или хэш"/>
+<Translation Original="Random Model" Replace="Случайная модель"/>
+<Translation Original="Search Vehicles" Replace="Поиск транспорта"/>
+<Translation Original="Search for a certain vehicle." Replace="Поиск определенного автомобиля"/>
+<Translation Original="OpenIV Loader" Replace="Загрузить из OpenIV"/>
+<Translation Original="Load OpenIV add-on vehicles." Replace="Загрузить транспортные средства из OpenIV"/>
+<Translation Original="XML Loader" Replace="Загрузить из XML"/>
+<Translation Original="Load saved .xml vehicles" Replace="Загрузить или сохранить транспорт в файл"/>
+<Translation Original="Folder: RampageFiles\Saved Vehicles." Replace="Путь: Grand Theft Auto V\RampageFiles\Saved Vehicles"/>
+<Translation Original="Favorite Vehicles" Replace="Избранный транспорт"/>
+<Translation Original="Load vehicles that are marked as favorite" Replace="Можно загрузить избранный транспорт"/>
+<Translation Original="Folder: RampageFiles\Favourite Vehicles." Replace="Путь: Grand Theft Auto V\RampageFiles\Favourite Vehicles"/>
+<Translation Original="Vehicle DLC List" Replace="Список DLC транспорта"/>
+<Translation Original="Every dlc from original release to today." Replace="Список DLC Дополнений начиная с релиза игры"/>
+
+Главное меню -> Спавнер -> Транспорт -> Настройки спавнера
+<Translation Original="Delete Old Vehicle" Replace="Заменять предыдущий транспорт"/>
+<Translation Original="Spawn In Vehicle" Replace="Появляться в транспорте"/>
+<Translation Original="Spawn Pre-Upgraded" Replace="Получить максимальную модификацию"/>
+<Translation Original="Custom Plate" Replace="Пользовательский номер"/>
+<Translation Original="Neon Lights" Replace="Неоновая подсветка"/>
+<Translation Original="Neon Color" Replace="Цвет неоновой подсветки"/>
+<Translation Original="Spawn At Closest Road" Replace="Спаун на ближайшей дороге"/>
+<Translation Original="Spawn With Blip" Replace="Поставить трекер"/>
+<Translation Original="Attach Parachute" Replace="Прикрепить парашют"/>
+<Translation Original="Add to Database" Replace="Добавить в базу данных"/>
+<Translation Original="Despawn Bypass" Replace="Обход деспавна"/>
+
+Главное меню -> Спавнер -> Транспорт -> Поиск транспорта
+<Translation Original="Search for a Vehicle" Replace="Поиск транспортного средства"/>
+
+Главное меню -> Спавнер -> Транспорт -> Загрузить из XML
+<Translation Original="Save Vehicle" Replace="Сохранить в файл"/>
+<Translation Original="Saves current vehicle to xml file" Replace="Сохранение текущего автомобиля в XML файл"/>
+<Translation Original="No files found" Replace="Файлы не найдены"/>
+
+Главное меню -> Спавнер -> Транспорт -> Загрузить из XML
+<Translation Original="Clear" Replace="Отчистить"/>
+
+Главное меню -> Спавнер -> Объекты
+<Translation Original="Cam Settings" Replace="Настройки камеры"/>
+<Translation Original="Creator Cam" Replace="Перейти в редактор"/>
+<Translation Original="Set's you in creator mode." Replace="Переключиться на камеру-редактор"/>
+<Translation Original="Shortcut: [LCTRL] + [C]" Replace="[LCTRL] + [C] - Быстрый доступ комбинация"/>
+<Translation Original="Object Database" Replace="База данных объектов"/>
+<Translation Original="All Objects" Replace="Все объекты"/>
+<Translation Original="Stunt Objects" Replace="Объекты для трюков"/>
+<Translation Original="Search Objects" Replace="Поиск объекта"/>
+<Translation Original="Enter object name or hash." Replace="Введите название объекта или хэш"/>
+<Translation Original="Hijack Object" Replace="Найти объект"/>
+
+Главное меню -> Спавнер -> Объекты -> Настройка камеры
+<Translation Original="Take Player with cam" Replace="Передвигать камеру с персонажем"/>
+<Translation Original="Additional Speed" Replace="Установить скорость передвижения"/>
+<Translation Original="Cam FOV" Replace="FOV Камеры"/>
+
+Главное меню -> Спавнер -> Объекты -> База данных объектов
+<Translation Original="Clear Database" Replace="Очистить базу данных"/>
+<Translation Original="Delete all" Replace="Удалить всё"/>
+
+Главное меню -> Спавнер -> Объекты -> Загрузить | Сохранить
+<Translation Original="Export Database" Replace="Экспортировать базу данных"/>
+
+Главное меню -> Спавнер -> Объекты -> Поиск объекта
+<Translation Original="Search for an object" Replace="Поиск объекта по названию"/>
+
+Главное меню -> Спавнер -> Пешеходы
+<Translation Original="Ped Database" Replace="База данных пешеходов"/>
+<Translation Original="Search Peds" Replace="Поиск пешехода"/>
+<Translation Original="Hijack Ped" Replace="Найти пешехода"/>
+
+Главное меню -> Спавнер -> Пешеходы -> Настройка спавнера
+<Translation Original="Spawn Dead" Replace="Спавн мёртвого пешехода"/>
+<Translation Original="Spawn As Bodyguard" Replace="Спавн пешехода защитника"/>
+<Translation Original="Spawn As Enemy" Replace="Спавн враждебного пешехода"/>
+
+Главное меню -> Спавнер -> Пешеходы -> Поиск пешехода
+<Translation Original="Search for a Ped" Replace="Поиск пешехода по названию"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+Главное меню -> Споунер
+<Translation Original="Add Objects to Database" Replace="Добавить объекты в базу данных"/>
+<Translation Original="Map Spooner" Replace="Карта спунер"/>
+<Translation Original="INI Loader" Replace="Загрузчик INI"/>
+<Translation Original="JSON Loader" Replace="Загрузчик JSON"/>
+Главное меню -> Споунер -> Загрузчик INI
+<Translation Original="Delete Last" Replace="Удалить последнию запись"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+Игровой Pool
+<Translation Original="Pickups" Replace="Пакеты"/>
+
+Главное меню -> Мир
+<Translation Original="Time" Replace="Время"/>
+<Translation Original="Weather" Replace="Погода"/>
+<Translation Original="Gravity" Replace="Гравитация"/>
+<Translation Original="Ped Manager" Replace="Менеджер пешеходов"/>
+<Translation Original="Vehicle Manager" Replace="Менеджер транспорта"/>
+<Translation Original="Object Manager" Replace="Диспетчер объеков"/>
+<Translation Original="Model Swapping" Replace="Замена модели"/>
+<Translation Original="Tornado & Black Hole" Replace="Торнадо и черная дыра"/>
+<Translation Original="IPL Loader" Replace="Загрузчик IPL"/>
+<Translation Original="Ambient Light" Replace="Свет на персонаже"/>
+<Translation Original="Blackout" Replace="Отключить электричество в мире"/>
+<Translation Original="All world lights go off." Replace="Все источники света в мире погаснут"/>
+<Translation Original="No Restricted Zones" Replace="Нет зон ограниченного доступа"/>
+<Translation Original="Disable all restricted zones." Replace="Отключить все зоны где могут дать розыск"/>
+<Translation Original="Jump around Mode" Replace="Режим прыжков в мире"/>
+<Translation Original="Jumping peds and vehicles around you." Replace="Прыгающие пешеходы и транспорт вокруг вас"/>
+<Translation Original="Firework Mode" Replace="Режим фейерверка"/>
+<Translation Original="Spawns fireworks everywhere." Replace="Фейерверк взырвается вокруг персонажа"/>
+<Translation Original="Radar" Replace="Отладочный радар"/>
+<Translation Original="Scan vehicles around you." Replace="Сканируйте транспортные средства вокруг"/>
+<Translation Original="Rain Rockets" Replace="Ракетный дождь"/>
+<Translation Original="Rockets are falling from the sky." Replace="Ракеты падают с неба"/>
+<Translation Original="Delete All Pickups" Replace="Удалить все пакеты"/>
+<Translation Original="Deletes all pickups in game pool." Replace="Удаляет все пакеты в игровом пуле"/>
+<Translation Original="Refresh Interior" Replace="Обновить интерьер"/>
+<Translation Original="Populate Area" Replace="Населенный пункт"/>
+<Translation Original="Spawns some peds and vehicles offscreen." Replace="Создает несколько пешеходов и транспортных средств за кадром"/>
+<Translation Original="Area Scale" Replace="Размер зоны области"/>
+<Translation Original="Clear Area" Replace="~r~Очистить область"/>
+<Translation Original="Cleanup Area" Replace="Зона очистки"/>
+
+Главное меню -> Мир -> Время
+<Translation Original="Hour" Replace="Час"/>
+<Translation Original="Minute" Replace="Минута"/>
+<Translation Original="Second" Replace="Секунда"/>
+<Translation Original="Game Minute Milliseconds" Replace="Игровые минуты в миллисекундах"/>
+<Translation Original="Set milliseconds per game minute" Replace="Установить миллисекунды в минуту игры"/>
+<Translation Original="60000 = Real time" Replace="60000 = Реальное время"/>
+<Translation Original="Force Update" Replace="Принудительно обновить время"/>
+<Translation Original="Stop Time" Replace="Остановить время"/>
+<Translation Original="Stops the time flow." Replace="Остановить текущее время"/>
+<Translation Original="Time Cycle" Replace="Цикл времени"/>
+<Translation Original="Sets the time progress speed." Replace="Устанавливает скорость хода времени."/>
+<Translation Original="Set Time" Replace="Установить время"/>
+<Translation Original="Set a custom time." Replace="Установить собственное время"/>
+<Translation Original="Sunrise" Replace="Восход"/>
+<Translation Original="Clock set to 6:00 am" Replace="Часы установлены на 6:00 утра"/>
+<Translation Original="Midday" Replace="Полдень"/>
+<Translation Original="Clock set to 12:15 pm" Replace="Часы установлены на 12:15 вечера"/>
+<Translation Original="Sunset" Replace="Закат"/>
+<Translation Original="Clock set to 19:19 pm" Replace="Часы установлены на 19:19 вечера"/>
+<Translation Original="Midnight" Replace="Полночь"/>
+<Translation Original="Clock set to 23:23 pm" Replace="Часы установлены на 23:23 ночи"/>
+<Translation Original="Sync System Time" Replace="Синхронизировать с системным временем"/>
+<Translation Original="Sync's game time with real time." Replace="Синхронизация игрового времени с реальным"/>
+<Translation Original="Progression" Replace="Скорость движения"/>
+<Translation Original="Mid" Replace="Средне"/>
+<Translation Original="Slow" Replace="Медленно"/>
+<Translation Original="Fast" Replace="Быстро"/>
+<Translation Original="Enable Timelapse" Replace="Переключатель таймлапса"/>
+<Translation Original="World time transition." Replace="Ускорение мирового времени"/>
+
+Прогноз погоды
+<Translation Original="Prediction" Replace="Прогноз:"/>
+<Translation Original="Wind" Replace="Скорость ветра:"/>
+
+Главное меню -> Мир -> Погода
+<Translation Original="Reset Weather" Replace="Сбросить погоду"/>
+<Translation Original="Randomize Weather" Replace="Рандомизировать погоду"/>
+<Translation Original="Smooth Transition" Replace="Плавный переход"/>
+<Translation Original="Sunny" Replace="Солнечно"/>
+<Translation Original="Rain" Replace="Дождь"/>
+<Translation Original="Snowlight" Replace="Снежный свет"/>
+<Translation Original="Snow" Replace="Снег"/>
+<Translation Original="Halloween" Replace="Хэллоуин"/>
+<Translation Original="Thunder" Replace="Гром"/>
+<Translation Original="Blizzard" Replace="Метель"/>
+<Translation Original="Overcast" Replace="Пасмурно"/>
+<Translation Original="Foggy" Replace="Туманно"/>
+<Translation Original="Smog" Replace="Смог"/>
+<Translation Original="Clouds" Replace="Облачно"/>
+<Translation Original="Lightning Flash" Replace="Вспышка молнии"/>
+<Translation Original="Cloud Type" Replace="Тип облаков"/>
+<Translation Original="Wind Speed" Replace="Скорость ветра"/>
+<Translation Original="Rain FX intensity" Replace="Интенсивность эффектов дождя"/>
+<Translation Original="Snowy Map" Replace="Снежная карта"/>
+<Translation Original="Enables the winter snow coverage." Replace="Обеспечивает зимнее снежное покрытие"/>
+
+Главное меню -> Мир -> Изменить океан
+<Translation Original="Modify Water" Replace="Раздвинуть воду"/>
+<Translation Original="Breaks the water as you walk into it." Replace="Раздвигает воду когда вы входите в нее"/>
+<Translation Original="Solid Water" Replace="Твердая вода"/>
+<Translation Original="Allows you to walk on water." Replace="Позволяет ходить по воде"/>
+<Translation Original="High Waves" Replace="Высокие волны"/>
+<Translation Original="Sets very high ocean waves." Replace="Устанавливает очень высокие океанские волны"/>
+<Translation Original="Normal Waves" Replace="Нормальные волны"/>
+<Translation Original="Restores normal wave behavior." Replace="Восстанавливает нормальное поведение волн"/>
+<Translation Original="Ripple Bumpiness" Replace="Пульсация воды"/>
+<Translation Original="Water Fade In" Replace="Исчезновение воды"/>
+<Translation Original="Water Fade Out" Replace="Исчезновение воды"/>
+<Translation Original="Water Strength" Replace="Интенсивность воды"/>
+<Translation Original="Disable Ocean" Replace="Отключить океан"/>
+<Translation Original="Removes all water quadrants." Replace="Удаляет все водные квадраты"/>
+<Translation Original="Clear Ocean" Replace="Отчистить окена"/>
+<Translation Original="Makes the ocean transparent." Replace="Делает океан прозрачно чистым"/>
+
+Главное меню -> Мир -> Гравитация
+<Translation Original="Negate Gravity" Replace="Негативная гравитация"/>
+<Translation Original="Earth Gravity (9.8)" Replace="Гравитация Земли (9.8)"/>
+<Translation Original="Moon Gravity (1.6)" Replace="Гравитация Луны (1.6)"/>
+<Translation Original="Pluto Gravity (0.6)" Replace="Гравитация Плутона (0.6)"/>
+<Translation Original="Zero Gravity (0.0)" Replace="Нулевая гравитация (0.0)"/>
+<Translation Original="Mercury/Mars Gravity (3.7)" Replace="Гравитация Меркурия | Марса (3.7)"/>
+<Translation Original="Venus/Uranus (8.9)" Replace="Гравитация Венеры | Урана (8.9)"/>
+<Translation Original="Saturn (10.4)" Replace="Гравитация Сатурна (10.4)"/>
+<Translation Original="Neptune (11.2)" Replace="Гравитация Нептуна (11.2)"/>
+<Translation Original="Jupiter (24.9)" Replace="Гравитация Юпитера (24.9)"/>
+<Translation Original="Sun (274.0)" Replace="Гравитация Солнца (274.0)"/>
+
+Главное меню -> Мир -> Менеджер пешеходов
+
+<Translation Original="~r~Ped" Replace="~r~Пешеходы"/>
+<Translation Original="Count" Replace="Общее число:"/>
+<Translation Original="On Screen" Replace="На экране:"/>
+
+<Translation Original="ESP" Replace="ESP Линия"/>
+<Translation Original="Extrasensory perception for peds." Replace="Экстрасенсорика для педов"/>
+<Translation Original="ESP (Bones)" Replace="ESP Линия и скелет"/>
+<Translation Original="Extrasensory perception for peds with bones." Replace="Экстрасенсорика для педов с скелетом"/>
+<Translation Original="Teleport all nearby peds to you." Replace="Телепортирует к себе всех ближайших пешеходов"/>
+<Translation Original="Run to Me" Replace="Позвать всех пешеходов"/>
+<Translation Original="All nearby peds run towards you." Replace="Близжайшие пешеходы прибегут к персонажу"/>
+<Translation Original="Cower" Replace="Испугать пешеходов"/>
+<Translation Original="All nearby peds cower." Replace="Все ближайшие пешеходы пугаются"/>
+<Translation Original="Jump" Replace="Прыгающие пешеходы"/>
+<Translation Original="All nearby peds jump." Replace="Все ближайшие пешеходы прыгают"/>
+<Translation Original="Explode" Replace="Взорвать близжайших"/>
+<Translation Original="Explodes nearby peds." Replace="Все ближайшие пешеходы взрываются"/>
+<Translation Original="Commit Suicide" Replace="Убить пешехода"/>
+<Translation Original="Nearby peds will commit suicide." Replace="Убить самого ближнего пешехода"/>
+<Translation Original="Hostile Peds" Replace="Пешеходы атакуют вас"/>
+<Translation Original="Peds will attack you." Replace="Близжайшие пешеходы атакуют вас"/>
+<Translation Original="Auto-Kill Enemies" Replace="Взорвать вражеских пешеходов"/>
+<Translation Original="Kills nearby peds that are in combat with you." Replace="Взорвать всех враждебных пешеходов вокруг"/>
+<Translation Original="Kill" Replace="Убить пешеходов"/>
+<Translation Original="Kills nearby peds." Replace="Убить близжайших пешеходов"/>
+<Translation Original="Decrease Ped Population" Replace="Уменьшить популяцию людей"/>
+<Translation Original="Decreases ped density." Replace="Уменьшает интенсивность спавна пешеходов"/>
+<Translation Original="Delete All" Replace="Удалить всё"/>
+<Translation Original="Deletes all peds in game pool." Replace="Удаляет всех пешеходов в игровом пуле"/>
+
+Главное меню -> Мир -> Менеджер транспорта
+
+<Translation Original="~HUD_COLOUR_DEGEN_GREEN~Vehicle" Replace="~g~Транспорт"/>
+
+<Translation Original="Extrasensory perception for vehicles." Replace="Экстрасенсорика для транспорта"/>
+<Translation Original="Teleport all nearby vehicles to you." Replace="Телепортировать близжайший транспорт к себе"/>
+<Translation Original="Explode nearby vehicles." Replace="Взорвать близжайший транспорт"/>
+<Translation Original="Ascend" Replace="Подбросить машины"/>
+<Translation Original="Push nearby vehicles to the sky." Replace="Подбросить ближайшие транспортные средства в небо"/>
+<Translation Original="Angry Planes" Replace="Атакующие истребители"/>
+<Translation Original="Spawn some attacking fighter jets." Replace="Создать несколько атакующих истребителей"/>
+<Translation Original="Upgrade" Replace="Модифицировать транспорт рядом"/>
+<Translation Original="Upgrade nearby vehicles." Replace="Модифицировать весь близжайший транспорт"/>
+<Translation Original="Paint loop" Replace="Радужные цвета транспортов"/>
+<Translation Original="Rainbow paint nearby vehicles." Replace="Весь близжайший транспорт радужного цвета"/>
+<Translation Original="Horn Havoc" Replace="Посстоянный клаксон"/>
+<Translation Original="Horn nearby vehicles." Replace="У всего близжайшего транспорта включен клаксон"/>
+<Translation Original="Boost On Horn" Replace="Ускорение у близжайшего транспорта"/>
+<Translation Original="Horn boost nearby vehicles." Replace="У всего транспорта вокруг есть укскорение"/>
+<Translation Original="Hostile Traffic" Replace="Враждебный трафик"/>
+<Translation Original="Ambient vehicles will go for you." Replace="Окружающие водители попытаються вас задавить"/>
+<Translation Original="No Collision" Replace="Отключить коллизию"/>
+<Translation Original="Nearby vehicles have no collision with you." Replace="Отключить коллизию у всего транспорта вокруг"/>
+<Translation Original="Delete" Replace="Удалить транспорт рядом"/>
+<Translation Original="Deletes all nearby vehicles." Replace="Удаляет все ближайшие транспортные средства"/>
+<Translation Original="Decreases vehicle density." Replace="Уменьшить интенсивность спавна транспорта"/>
+<Translation Original="Deletes all vehicles in game pool." Replace="Удаляет все транспортные средства в игровом пуле"/>
+
+Главное меню -> Мир -> Менеджер объктов
+
+<Translation Original="~HUD_COLOUR_BLUE~Objects" Replace="~b~Объекты"/>
+
+<Translation Original="Extrasensory perception for objects." Replace="Экстрасенсорика для объктов"/>
+<Translation Original="Object Scanner" Replace="Радар объектов"/>
+<Translation Original="Displays information about world objects." Replace="Отображает информацию об объектах мира"/>
+<Translation Original="Deletes all objects in game pool." Replace="Удаляет все объекты в игровом пуле"/>
+
+Главное меню -> Мир -> Замена модели -> Транспорт
+<Translation Original="All to Monster Trucks" Replace="Заменить все на: Monster Trucks"/>
+<Translation Original="All to T20's" Replace="Заменить все на: T20"/>
+<Translation Original="All to Police Cars" Replace="Заменить все на: Police Cars"/>
+<Translation Original="Select All" Replace="Выбрать всё"/>
+<Translation Original="Target: Not Set" Replace="Цель: Не выбрано"/>
+<Translation Original="Enter target vehicle model." Replace="Введите модель автомобиля"/>
+<Translation Original="Replace: Not Set" Replace="Заменить: Не выбрано"/>
+<Translation Original="Swap Them" Replace="Поменять местами"/>
+
+Главное меню -> Мир -> Замена модели -> Пешеходы
+<Translation Original="All to Cops" Replace="Заменить всех на: Cops"/>
+<Translation Original="All to Zombies" Replace="Заменить всех на: Zombies"/>
+<Translation Original="All to Chimps" Replace="Заменить всех на: Chimps"/>
+<Translation Original="Enter target ped model." Replace="Выберите модель которую надо заменить"/>
+<Translation Original="Enter replace ped model." Replace="Выбрана модель которая заменит цель"/>
+
+Главное меню -> Мир -> Торнадо и чёрная дыра
+<Translation Original="Meteor Shower" Replace="Метеоритный дождь"/>
+<Translation Original="Change the way how force get's applied to entities." Replace="Измените способ применения силы"/>
+<Translation Original="Froce Type" Replace="Тип силы"/>
+<Translation Original="Apply Force" Replace="Установить силу притяжения"/>
+<Translation Original="Set Velocity" Replace="Стандартно"/>
+<Translation Original="Low Force" Replace="Низкая сила без притяжения"/>
+<Translation Original="High Force Rot" Replace="Высокая сила притяжения"/>
+<Translation Original="Low Force 2" Replace="Средняя сила без притяжения"/>
+<Translation Original="High Force 2 Rot" Replace="Очень высокая сила"/>
+<Translation Original="Force No Rot" Replace="Без притяжения"/>
+<Translation Original="Force Plus" Replace="Танцы объектов на месте"/>
+<Translation Original="Delete Entities" Replace="Транспорт исчезает в дыре"/>
+<Translation Original="This will only delete the vehicles." Replace="Только транспорт будет исчезать в чёрной дыре"/>
+
+Главное меню -> Мир -> Загрузчик IPL
+<Translation Original="Map Sets" Replace="Наборы карт"/>
+<Translation Original="Load ingame map sets." Replace="Загрузить внутриигровые наборы карт"/>
+<Translation Original="Load self added IPLS." Replace="Загрузить карту созданную пользователем"/>
+<Translation Original="Enter a custom hash to load that IPL." Replace="Введите пользовательский хэш для загрузки IPL"/>
+<Translation Original="Unload Custom" Replace="Выгрузить пользовательскую локацию"/>
+<Translation Original="Enter a custom hash to unload that IPL." Replace="Введите пользовательский хэш для выгрузки IPL"/>
+<Translation Original="Enter id and name to load that interior." Replace="Введите идентификатор и имя, чтобы загрузить интерьер"/>
+<Translation Original="Enter id and name to unload that interior." Replace="Введите идентификатор и имя, чтобы выгрузить интерьер"/>
+
+Главное меню -> Мир -> Загрузчик IPL -> Наборы карт
+<Translation Original="Load Custom" Replace="Пользовательские локации"/>
+<Translation Original="Add load own IPL sets." Replace="Добавить загрузку собственных наборов IPL"/>
+<Translation Original="Unload All" Replace="Выгрузить всё"/>
+<Translation Original="Unload all IPLs." Replace="Выгрузить все IPL'ы"/>
+<Translation Original="Cayo Perico" Replace="Загрузить: Кайо Перико"/>
+<Translation Original="Teleport to Cayo Perico" Replace="Телепорт в Кайо Перико"/>
+<Translation Original="Diamond Casino" Replace="Загрузить: Казино Diamond"/>
+<Translation Original="Teleport to Diamond Casino" Replace="Телепорт в Казино Diamond"/>
+<Translation Original="North Yankton" Replace="Загрузить: Северный Янктон"/>
+<Translation Original="Teleport to North Yankton" Replace="Телепорт в Северный Янктон"/>
+<Translation Original="Porn Yacht" Replace="Загрузить: Порно Яхту"/>
+<Translation Original="Teleport to Porn Yacht" Replace="Телепорт на Порно Яхту"/>
+<Translation Original="Heist Carrier" Replace="Загрузить: Авианосец"/>
+<Translation Original="Teleport to Heist Carrier" Replace="Телепорт на Авианосец"/>
+<Translation Original="Sunken Cargoship" Replace="Загрузить: Затонувший грузовой корабль"/>
+<Translation Original="Teleport to Sunken Cargoship" Replace="Телепорт на Затонувший грузовой корабль"/>
+<Translation Original="Hospital" Replace="Загрузить: Больницу"/>
+<Translation Original="Teleport to Hospital" Replace="Телепорт в Больницу"/>
+<Translation Original="O'Neil Ranch" Replace="Загрузить: Ферму Онил"/>
+<Translation Original="Teleport to O'Neil Ranch" Replace="Телепорт к Ферму Онил"/>
+<Translation Original="Load Life Invader Office" Replace="Загрузить: Live Invader"/>
+<Translation Original="Teleport to Life Invader Office" Replace="Телепорт в офис Life Invader"/>
+<Translation Original="Ufo" Replace="Загрузить: НЛО"/>
+<Translation Original="Teleport to UFO" Replace="Телепорт к НЛО"/>
+<Translation Original="cBell" Replace="Загрузить: cBell"/>
+<Translation Original="Teleport to cBell" Replace="Телепорт в cBell"/>
+<Translation Original="Lesters Factory Burning" Replace="Загрузить: Пожар на заводое Лестера"/>
+<Translation Original="Teleport to Lesters Factory burning" Replace="Телепорт к Пожару на заводое Лестера"/>
+<Translation Original="Cargoship" Replace="Загрузить: Грузовой корабль"/>
+<Translation Original="Teleport to Cargoship" Replace="Телепорт на Грузовой корабль"/>
+<Translation Original="Jewelry Store" Replace="Загрузить: Ювелирный магазин"/>
+<Translation Original="Teleport to Jewelry Store" Replace="Телепорт в Ювелирный магазин"/>
+<Translation Original="Morgue" Replace="Загрузить: Морг"/>
+<Translation Original="Teleport to Morgue" Replace="Телепорт в Морг"/>
+
+Главное меню -> Мир -> Загрузчик IPL -> Наборы карт -> Пользовательские локации
+<Translation Original="Load Mode" Replace="Режим загрузки"/>
+<Translation Original="Load All" Replace="Загрузить всё"/>
+<Translation Original="ExampleSet" Replace="Набор примеров"/>
+
+Главное меню -> Мир -> Загрузчик IPL -> Пользовательский
+<Translation Original="Enable All" Replace="Включить всё"/>
+<Translation Original="Disable All" Replace="Выключить всё"/>
+<Translation Original="No file loaded" Replace="Файл не загружен"/>
+
+Главное меню -> Мир -> Свет на персонаже
+<Translation Original="Toggle" Replace="Активировать"/>
+<Translation Original="Range" Replace="Диапазон"/>
+<Translation Original="Brightness" Replace="Яркость"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+Главное меню -> Разное
+<Translation Original="Yacht Spawner" Replace="Получить яхту"/>
+<Translation Original="Animal Riding" Replace="Верховая езда"/>
+<Translation Original="MP3 Player" Replace="Мобильный плеер"/>
+<Translation Original="Game Music" Replace="Воспроизведение саундтреков"/>
+<Translation Original="Mobile TV" Replace="Мобильный телевизор"/>
+<Translation Original="Cutscene Player" Replace="Проигрыватель кат сцен"/>
+<Translation Original="Radio" Replace="Мобильное радио"/>
+<Translation Original="HUD Colors" Replace="Пользовательские цвета интерфейса"/>
+<Translation Original="Overlay Settings" Replace="Настройки наложения"/>
+<Translation Original="City Cameras" Replace="Городские камеры"/>
+<Translation Original="Train Ride" Replace="Поездка на поезде"/>
+<Translation Original="Particle Man" Replace="Эффекты для персонажа"/>
+<Translation Original="Friendlist" Replace="Список друзей"/>
+<Translation Original="Cam Zoom" Replace="Масштабирование камеры"/>
+<Translation Original="Alter the gameplay cam zooming." Replace="Изменить масштабирование игровой камеры"/>
+<Translation Original="GTA 2 Cam" Replace="Вид сверху"/>
+<Translation Original="Use old gta 2 top down cam." Replace="Включить вид камеры сверху как в GTA 2"/>
+<Translation Original="No Clip" Replace="Летающая камера"/>
+<Translation Original="Clip trough entities and buildings." Replace="Отключает коллизию персонажа и можно им летать."/>
+<Translation Original="[A] - Left" Replace="[A] - Влево"/>
+<Translation Original="[D] - Right" Replace="[D] - Вправо"/>
+<Translation Original="Container Rider" Replace="Контейнерный гонщик"/>
+<Translation Original="Ride on containers, bike required!" Replace="Катайтесь на контейнерах, велосипед обязателен!"/>
+<Translation Original="Air Walk / Drive" Replace="Воздушная прогулка"/>
+<Translation Original="Walk or Drive over the air." Replace="Прогулка или поездка по воздуху"/>
+<Translation Original="[SHIFT] / [LCTRL] - Height" Replace="[SHIFT] | [LCTRL] - Высота"/>
+<Translation Original="Free Cam" Replace="Свободная камера"/>
+<Translation Original="Free moving camera." Replace="Свободный полёт камерой"/>
+<Translation Original="[CONTROL STICKS] - For Gamepad" Replace="[CONTROL STICKS] - Для геймпада"/>
+<Translation Original="Remove Fog of War" Replace="Разведать всю карту"/>
+<Translation Original="Reveals entire map." Replace="Открывает всю карту."/>
+<Translation Original="Cap FPS" Replace="Ограничение FPS"/>
+<Translation Original="Cap your framerate." Replace="Ограничение частоты кадров"/>
+<Translation Original="Higher value = lover framerate." Replace="Высокое значение = Хорошая частота кадров"/>
+<Translation Original="GTAO Map" Replace="Включить карту GTA Online"/>
+<Translation Original="Enables multiplayer map components." Replace="Включает компоненты многопользовательской карты"/>
+<Translation Original="No Stunt Jumps" Replace="Отключить каскадёрские прыжки"/>
+<Translation Original="Disables vehicle stunt jumps." Replace="Отключить каскадёрские прыжки в транспорте"/>
+<Translation Original="Force MP Audio" Replace="Включить звук из GTA Online"/>
+<Translation Original="Forces multiplayer audio." Replace="Включает многопользовательский звук"/>
+<Translation Original="~y~Can break missions and director mode!" Replace="~y~Может сломать миссии и режим режиссера!"/>
+<Translation Original="Decrease Graphics" Replace="Низкая графика"/>
+<Translation Original="Decreases level of detail." Replace="Снижает уровень детализации"/>
+<Translation Original="Adjust Global LOD" Replace="Высокий уровень детализации"/>
+<Translation Original="Adjust the global level of detail." Replace="Настройка глобального уровня детализации"/>
+<Translation Original="High values can crash the game." Replace="Высокие значения могут привести к вылету игры"/>
+<Translation Original="6 Star Wanted" Replace="Шестой уровень розыска"/>
+<Translation Original="Get fake 6 star wanted level." Replace="Получите фальшивый 6-звездочный уровень розыска"/>
+<Translation Original="Pause Game" Replace="Приостановить игру"/>
+<Translation Original="Pauses the game." Replace="Приостановить полностью процесс игры"/>
+<Translation Original="Remove Weapon Wheel Slow-Mo" Replace="Отключить замедление при выборе оружия"/>
+<Translation Original="This removes the Slow-Mo inside the weapon wheel." Replace="Это отключит замедление внутри колеса оружия."/>
+<Translation Original="About Rampage" Replace="Сведения об Rampage"/>
+
+<Translation Original="Script Monitor" Replace="Мониторинг скриптов"/>
+<Translation Original="Total Scripts: 985" Replace="Всего скриптов: 985"/>
+<Translation Original="Script Terminator" Replace="Остановка скриптов"/>
+<Translation Original="Script Loader" Replace="Загрузчик скриптов"/>
+
+Главное меню -> Разное -> Получить яхту
+<Translation Original="Load Heist Yacht" Replace="Создать мою яхту"/>
+<Translation Original="Load Gunrunning Yacht" Replace="Создать яхту: Торговля оружием"/>
+<Translation Original="Teleport to Heist Yacht" Replace="Телепорт на мою яхту"/>
+<Translation Original="Teleport to Gunrunning Yacht" Replace="Телепорт на яхту: Торговля оружием"/>
+<Translation Original="Unload Heist Yacht" Replace="Удалить мою яхту"/>
+<Translation Original="Unload Gunrunning Yacht" Replace="Удалить яхту: Торговля оружием"/>
+
+Главное меню -> Разное -> Верховая езда
+<Translation Original="Stop Riding" Replace="Прекратить езду"/>
+<Translation Original="Cow Idle" Replace="Сидеть на корове"/>
+<Translation Original="Deer Idle" Replace="Сидеть на олене"/>
+<Translation Original="Deer Walk" Replace="Ехать на олене"/>
+<Translation Original="Deer Run" Replace="Мчаться на олене"/>
+
+Главное меню -> Разное -> Мобильный плеер
+<Translation Original="Plays: -" Replace="Статус: [Не воспроизводится]"/>
+<Translation Original="Plays: Nothing" Replace="Статус: [Не воспроизводится]"/>
+<Translation Original="Plays: [Paused]" Replace="Статус: [Пауза]"/>
+<Translation Original="Pause" Replace="Приостановить воспроизведение"/>
+<Translation Original="Resume" Replace="Возобновить воспроизведение"/>
+<Translation Original="Stop" Replace="Остановить воспроизведение"/>
+<Translation Original="Loop" Replace="Повторение трека"/>
+<Translation Original="Play all" Replace="Воспроизвести всё"/>
+<Translation Original="Volume (db)" Replace="Общая громкость"/>
+<Translation Original="No playable files found" Replace="Воспроизводимые файлы не найдены"/>
+
+Главное меню -> Разное -> Воспроизведение саундтреков
+<Translation Original="Stop Music Events" Replace="Остановить воспроизведение"/>
+<Translation Original="Disable Flight Music" Replace="Отключить музыку во время полёта"/>
+<Translation Original="Disable Wanted Music" Replace="Отключить музыку во время розыска"/>
+
+Главное меню -> Разное -> Мобильный телевизор
+<Translation Original="Enable" Replace="Включить"/>
+<Translation Original="Channel" Replace="Телеканал"/>
+
+Главное меню -> Разное -> Проигрыватель кат сцен
+<Translation Original="Stop Cutscene" Replace="Остановить кат сцену"/>
+<Translation Original="Stops the current cutscene." Replace="Останавливает текущий ролик"/>
+
+Главное меню -> Разное -> Мобильное радио
+<Translation Original="Toggle Extra Stations" Replace="Переключить дополнительные станции"/>
+<Translation Original="Skip Track" Replace="Пропустить трек"/>
+<Translation Original="Off" Replace="Выключить"/>
+
+Главное меню -> Разное -> Пользовательские цвета интерфейса
+<Translation Original="All Elements" Replace="Все элементы"/>
+<Translation Original="Reset all" Replace="Сбросить всё"/>
+<Translation Original="Use Online HUD" Replace="Исопльзовать цвета из GTA Online"/>
+
+Главное меню -> Разное -> Настройки наложения
+<Translation Original="Display FPS" Replace="Отображать счётчик FPS"/>
+<Translation Original="Display current frame count." Replace="Вывод на экран счётчик кадров"/>
+<Translation Original="Display Day & Time (Real time)" Replace="Отображать реальное время и день"/>
+<Translation Original="Display current real time day & time." Replace="Выводит на экран реальное время и день"/>
+<Translation Original="Display Time (Ingame)" Replace="Отображать игровое время и день"/>
+<Translation Original="Display current ingame time." Replace="Выводит на экран игровое время и день"/>
+<Translation Original="Display Coordinates" Replace="Отображать координаты персонажа"/>
+<Translation Original="Display current coordinates." Replace="Выводит на экран координаты персонажа"/>
+<Translation Original="Hide HUD" Replace="Скрыть интерфейс"/>
+<Translation Original="Hides HUD this frame." Replace="Полностью скрыть игровой интерфейс"/>
+<Translation Original="Large Radar" Replace="Большой радар"/>
+<Translation Original="Enlarges the radar." Replace="Показать большой радар из GTA Online"/>
+<Translation Original="Disable Notifications" Replace="Отключить все уведомления"/>
+<Translation Original="Disables notifications." Replace="Полностью отключить все игровые уведомления"/>
+<Translation Original="Disable Recording" Replace="Отключить запись"/>
+<Translation Original="Stops recording and discards clip." Replace="Отключить запись роликов по нажатию F1"/>
+<Translation Original="Disable Phone" Replace="Отключить телефон"/>
+<Translation Original="Disables Mobile Phone." Replace="Отключить игровой телефон всех персонажей"/>
+
+Главное меню -> Разное -> Поездка на поезде
+<Translation Original="Spawn Train" Replace="Создать поезд"/>
+<Translation Original="Control Train" Replace="Управление поездом"/>
+<Translation Original="Train Speed" Replace="Скорость поезда"/>
+<Translation Original="Derail Train" Replace="Свести поезд с рельсов"/>
+<Translation Original="Delete Train" Replace="Удалить поезд"/>
+
+Главное меню -> Разное -> Эффекты для персонажа
+<Translation Original="Ghost Rider" Replace="Призрачный гонщик"/>
+<Translation Original="Rampage Mode" Replace="Режим Rampage"/>
+<Translation Original="Particles" Replace="Эффекты"/>
+<Translation Original="Clown Trails" Replace="Следы клоуна"/>
+<Translation Original="Alien Teleport" Replace="Инопланетный телепорт"/>
+<Translation Original="Alien Impact" Replace="Инопланетное воздействие"/>
+<Translation Original="Alien Disintegrate" Replace="Инопланетный дезинтеграт"/>
+<Translation Original="Trailer Boosh" Replace="Трейлер Буш"/>
+<Translation Original="Clown Muz" Replace="Музыка клоуна"/>
+<Translation Original="Toggle Trails" Replace="Включить следы от рук"/>
+<Translation Original="Trail Color" Replace="Установить цвет следа"/>
+
+Главное меню -> Разное -> Сведения об Rampage
+<Translation Original="Version" Replace="Версия"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+Cтатистика персонажа
+<Translation Original="Deaths" Replace="Смертей:"/>
+<Translation Original="Kills" Replace="Убийства:"/>
+<Translation Original="Headshots" Replace="Хедшоты:"/>
+<Translation Original="Shots" Replace="Выстрелы:"/>
+<Translation Original="Completed Missions" Replace="Завершенные миссии:"/>
+<Translation Original="Stolen Vehicles" Replace="Угнанные ТС:"/>
+<Translation Original="Fastest Speed" Replace="Скорость Max:"/>
+<Translation Original="Times Cheated" Replace="Читы:"/>
+<Translation Original="Cash Earned" Replace="Доходы:"/>
+<Translation Original="Cash Spend" Replace="Расходы:"/>
+<Translation Original="Playing Time" Replace="Игровое время:"/>
+<Translation Original="Completion" Replace="Завершено:"/>
+
+Главное меню -> Статистика персонажа
+<Translation Original="Achievements" Replace="Достижения"/>
+<Translation Original="Money" Replace="Деньги"/>
+<Translation Original="Stats" Replace="Статистика"/>
+
+Главное меню -> Статистика персонажа -> Достижения
+<Translation Original="Unlock All" Replace="Разблокировать все достижения"/>
+
+Главное меню -> Статистика персонажа -> Деньги
+<Translation Original="Edit Money" Replace="Редактировать количество денег"/>
+<Translation Original="Clear Bank" Replace="Удалить всё количество денег"/>
+<Translation Original="Amount" Replace="Сумма сбрасываемых денег"/>
+<Translation Original="Money Gun" Replace="Денежные боеприпасы оружия"/>
+<Translation Original="Ped Drop" Replace="Сбрасывать вокруг персонажа"/>
+
+Главное меню -> Статистика персонажа -> Статистика
+<Translation Original="Max stats" Replace="Максимальная статистика персонажа"/>
+<Translation Original="Missions" Replace="Задания"/>
+<Translation Original="Hobbies and Pastimes" Replace="Хобби и развлечения"/>
+<Translation Original="Strangers and Freaks" Replace="Чудаки и прочии незнакомцы"/>
+<Translation Original="Random Events" Replace="Случайные события"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+Главное меню -> Настройки
+<Translation Original="Search" Replace="Поиск"/>
+<Translation Original="Search through most integrated options." Replace="Поиск по большинству интегрированных опций"/>
+<Translation Original="Core" Replace="Основные"/>
+<Translation Original="Manage essential features." Replace="Настройка основных опций"/>
+<Translation Original="Extended UI" Replace="Пользовательский интерфейс"/>
+<Translation Original="Toggle extended interface features." Replace="Расширенная настройка интерфейса"/>
+<Translation Original="Theme" Replace="Темы"/>
+<Translation Original="Edit the menu style." Replace="Редактирование стиля меню"/>
+<Translation Original="Plugins" Replace="Плагины"/>
+<Translation Original="Language" Replace="Языки"/>
+<Translation Original="Hotkey Manager" Replace="Менеджер горячих клавиш"/>
+<Translation Original="Manage predefined hotkeys." Replace="Управление горячими клавишами трейнера"/>
+<Translation Original="Load and Save configurations." Replace="Загрузить или сохранить конфигурацию"/>
+<Translation Original="Navigation Delay" Replace="Задержка навигации"/>
+<Translation Original="Set the up/down scroll delay." Replace="Устанавливает задержку прокрутки Вверх | Вниз"/>
+<Translation Original="Value Delay" Replace="Задержка значения"/>
+<Translation Original="Set the left/right scroll delay." Replace="Устанавливает задержку прокрутки Влево | Вправо"/>
+<Translation Original="Open Key" Replace="Клавиша открытия"/>
+<Translation Original="Gamepad Open Key" Replace="Клавиша открытия геймпада"/>
+
+Главное меню -> Настройки -> Поиск
+<Translation Original="Search for an Option" Replace="Поиск опций"/>
+
+Главное меню -> Настройки -> Основные
+<Translation Original="Debug" Replace="Отладка"/>
+<Translation Original="Mouse Controls" Replace="Управление мышью"/>
+<Translation Original="Enables mouse cursor." Replace="Управление с помощью курсора мыши"/>
+<Translation Original="Gamepad Controls" Replace="Управление геймпадом"/>
+<Translation Original="Enables support for gamepads." Replace="Включить поддержку геймпада"/>
+<Translation Original="Tooltip Box" Replace="Всплывающие подсказки"/>
+<Translation Original="Show tooltip box." Replace="Показывать всплывающие подсказки"/>
+<Translation Original="Menu Sounds" Replace="Звуки меню"/>
+<Translation Original="Menu click and switch sounds." Replace="Звуки клика и переключения"/>
+<Translation Original="Check for Updates" Replace="Проверить обновления"/>
+<Translation Original="Restart Game" Replace="~r~Перезапустить игру"/>
+<Translation Original="Relaunches the game." Replace="~r~ЭТА КНОПКА ПЕРЕЗАПУСКАЕТ ИГРУ"/>
+
+Главное меню -> Настройки -> Основные -> Отладка
+<Translation Original="Advanced Logging" Replace="Расширенное ведение журнала"/>
+<Translation Original="This will log more info to Rampage.log" Replace="Устанавливает повышенный уровень логгирования"/>
+<Translation Original="Event Logging" Replace="Логгировать события"/>
+<Translation Original="This will log all incoming game events." Replace="Регистрировать все входящие игровые события"/>
+<Translation Original="Send Console Message" Replace="Отправить консольное сообщение"/>
+<Translation Original="Invoke Command" Replace="Вызвать команду"/>
+<Translation Original="Clear Brief" Replace="Очистить бриф"/>
+<Translation Original="Clear Help Texts" Replace="Очистить текст справки"/>
+<Translation Original="Test Feed" Replace="Тестовый канал"/>
+<Translation Original="Test Help Text" Replace="Текст справки по тестированию"/>
+<Translation Original="Clear Native Cache" Replace="Очистить собственный кэш"/>
+<Translation Original="Throw Exception" Replace="Сбросить исключения"/>
+
+Главное меню -> Настройки -> Пользовательский интерфейс
+<Translation Original="Window Manager" Replace="Оконный менеджер"/>
+<Translation Original="Open various windows." Replace="Дополнительны менеджер активных окон"/>
+<Translation Original="Teleport Map" Replace="Карта телепорта"/>
+<Translation Original="Enable teleport map under teleport options." Replace="Включить карту телепорта в настройках телепорта"/>
+<Translation Original="See yourself and destinations on a map." Replace="Отображать свою метку и пункты назначения на карте"/>
+<Translation Original="Vehicle Previews" Replace="Превью транспорта"/>
+<Translation Original="Enable vehicle pictures in vehicle spawner." Replace="Отображать изображения транспорта в спавнере"/>
+<Translation Original="Invert Colors" Replace="Инвертировать цвета"/>
+<Translation Original="Invert the menu colors." Replace="Инвертировать цвета меню"/>
+<Translation Original="Color Cycle Mode" Replace="Активировать цвет меню RGB"/>
+<Translation Original="Menu color rgb cycle." Replace="Режим радужного меню"/>
+<Translation Original="Max Display Options" Replace="Размер окна списка трейнера"/>
+<Translation Original="Smooth Scrolling" Replace="Плавность прокрутки"/>
+<Translation Original="Smooth scroller transition." Replace="Плавный переход скроллера"/>
+<Translation Original="Toggle Globe" Replace="Переключить глобус"/>
+<Translation Original="Toggle the globe on Rectangle header." Replace="Включить глобус в заголовке трейнера"/>
+
+Главное меню -> Настройки -> Пользовательский интерфейс -> Оконный менеджер
+<Translation Original="Window Activators" Replace="Менеджер окон"/>
+<Translation Original="Displays window activator panels top-right." Replace="Отображает панели активаторов окон вверху справа"/>
+<Translation Original="Open Log" Replace="Открыть файл Log"/>
+<Translation Original="Open Log window." Replace="Отображает содержимое файла Log"/>
+<Translation Original="Open Sysinfo" Replace="Открыть системную информацию"/>
+<Translation Original="Open Sysinfo window." Replace="Отображает информацию о системе"/>
+<Translation Original="Open Performance" Replace="Открыть окно производительности"/>
+<Translation Original="Open Performance window." Replace="Отображает окно производительности"/>
+<Translation Original="Open Hotkeys" Replace="Открыть окно горячих клавиш"/>
+<Translation Original="Open Hotkeys window." Replace="Отображает окно горячих клавиш"/>
+<Translation Original="Close all" Replace="Закрыть все окна"/>
+<Translation Original="Close all open windows." Replace="Закрывает полностью все активные окна"/>
+<Translation Original="Reset Windows" Replace="Сбросить позицию окон"/>
+<Translation Original="Reset Windows to default position." Replace="Сбросить позицию окон по положение по умолчанию"/>
+
+Главное меню -> Настройки -> Темы
+<Translation Original="Premade Themes" Replace="Готовые темы"/>
+<Translation Original="Header" Replace="Заголовок"/>
+<Translation Original="Change the top header image." Replace="Изменить верхнее изображение заголовка"/>
+<Translation Original="Interaction Menu" Replace="Интерактивное меню"/>
+<Translation Original="Animated" Replace="Анимированный"/>
+<Translation Original="Title Text" Replace="Текст заголовка"/>
+<Translation Original="Header Color" Replace="Цвет заголовка"/>
+<Translation Original="Scroller Color" Replace="Цвет скроллера"/>
+<Translation Original="X Axis" Replace="Ось X"/>
+<Translation Original="Change trainer x position." Replace="Изменить позицию окна тренера по оси X"/>
+<Translation Original="Y Axis" Replace="Ось Y"/>
+<Translation Original="Change trainer y position." Replace="Изменить позицию окна тренера по оси Y"/>
+
+Главное меню -> Настройки -> Плагины
+<Translation Original="No Plugins found" Replace="Плагины не найдены"/>
+
+Главное меню -> Настройки -> Менеджер горячих клавиш
+<Translation Original="Cursor Hotkey" Replace="Горячая клавиша курсора"/>
+<Translation Original="Enable key to activate mouse support." Replace="Горячая клавиша активации курсора"/>
+
+<Translation Original="Cursor Key" Replace="Клавиша курсора"/>
+
+<Translation Original="Teleport Hotkey" Replace="Горячая клавиша телепорта"/>
+<Translation Original="Teleports you to waypoint on press." Replace="Горячая клавиша активации телепорта"/>
+
+<Translation Original="Teleport Key" Replace="Клавиша телепорта"/>
+
+<Translation Original="Fix Vehicle Hotkey" Replace="Клавиша ремонта транспорта"/>
+<Translation Original="Fixes your vehicle on press." Replace="Ремотировать транспорт по нажатию комбинации"/>
+<Translation Original="Hotkey: [Control] + [R]" Replace="[CTRL] + [R] - Ремонтировать транспорт"/>
+
+<Translation Original="Creator Hotkey" Replace="Режим создание горячих клавиш"/>
+<Translation Original="Fast switch into creator mode." Replace="Активировать кнопку F12 что бы создать бинд функции"/>
+
+Главное меню -> Настройки -> Сохранить | Загрузить
+<Translation Original="Save Settings" Replace="Сохранить настройки"/>
+<Translation Original="Save current settings to file." Replace="Сохранить настройки в файл"/>
+<Translation Original="Load Settings" Replace="Загрузить настройки"/>
+<Translation Original="Load settings from file." Replace="Загрузить настройки из файла"/>
+<Translation Original="Restore Defaults" Replace="Восстановить настройки по умолчанию"/>
+<Translation Original="Sync Toggle Config" Replace="Настройка переключения синхронизации"/>
+<Translation Original="Enable syncing toggles with config." Replace="Включить синхронизацию включенных функций"/>
+<Translation Original="Save Toggles" Replace="Сохранить переключатели"/>
+<Translation Original="Save current toggles to file." Replace="Сохранить текущие переключатели в файл"/>
+<Translation Original="Load Toggles" Replace="Загрузить переключатели"/>
+<Translation Original="Load toggles from file." Replace="Загрузить переключатели из файла"/>
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+Дополнительные строки
+<Translation Original="Default" Replace="Стандартно"/>
+<Translation Original="Type" Replace="Тип"/>
+<Translation Original="Texture" Replace="Текстура"/>
+<Translation Original="Stock" Replace="Стандартно"/>
+<Translation Original="None" Replace="Не установлено"/>
+<Translation Original="NULL" Replace="Отсутсвует название"/>
+
+Разделители строк
+<Translation Original="Player Info" Replace="[Активный персонаж]"/>
+<Translation Original="Vehicle Info" Replace="[Активный транспорт]"/>
+<Translation Original="Toggles" Replace="Режимы"/>
+<Translation Original="Premade" Replace="Готовые"/>
+<Translation Original="Load Outfit" Replace="Загрузить костюм"/>
+<Translation Original="Ped Models" Replace="Модели персонажа"/>
+<Translation Original="Drawables" Replace="Одежда"/>
+<Translation Original="Props" Replace="Акксесуары"/>
+<Translation Original="Animations" Replace="Анимации"/>
+<Translation Original="MKII Camo" Replace="Расцветки MK2 оружия"/>
+<Translation Original="Load Loadout" Replace="Список сохранёных раскладок"/>
+<Translation Original="Plate" Replace="Номерной знак"/>
+<Translation Original="Tunables" Replace="Настраиваемые"/>
+<Translation Original="Primary Color" Replace="Основной цвет"/>
+<Translation Original="Secondary Color" Replace="Дополнительный цвет"/>
+<Translation Original="Multi Platform Neon" Replace="Неоновая платформа"/>
+<Translation Original="Neon Colors" Replace="Цвет неона"/>
+<Translation Original="Engine Upgrades" Replace="Модификация двигателя"/>
+<Translation Original="Tyre Smoke" Replace="Цвет дыма колёс"/>
+<Translation Original="Speed Modifications" Replace="Модификация скорости"/>
+<Translation Original="Aircraft Bomber" Replace="Бомбардировщик"/>
+<Translation Original="Args" Replace="Аргументы"/>
+<Translation Original="Modify Altitude" Replace="Изменить высоту"/>
+<Translation Original="Modify Speed" Replace="Изменить скорость"/>
+<Translation Original="ILS" Replace="Приземлится автопилотом"/>
+<Translation Original="Custom Locations" Replace="Пользовательские локации"/>
+<Translation Original="Locations" Replace="Локации"/>
+<Translation Original="All Shops" Replace="Все магазины"/>
+<Translation Original="Directional" Replace="Направление"/>
+<Translation Original="Vehicle" Replace="Транспорт"/>
+<Translation Original="Common Locations" Replace="Общие места"/>
+<Translation Original="Spawned Entities" Replace="Статистика созданых объектов"/>
+<Translation Original="Custom Tuning" Replace="Пользовательский тюнинг"/>
+<Translation Original="Misc" Replace="Разное"/>
+<Translation Original="Search Results" Replace="Найденые результаты"/>
+<Translation Original="Vehicles" Replace="Транспорт"/>
+<Translation Original="Values" Replace="Параметры пешехода"/>
+<Translation Original="Load Vehicles" Replace="Загрузить конфигурацию"/>
+<Translation Original="Timelapse" Replace="Промежуток времени"/>
+<Translation Original="Waves" Replace="Изменить волны"/>
+<Translation Original="Modifiers" Replace="Модификация параметров"/>
+<Translation Original="Ocean" Replace="Изменить океан"/>
+<Translation Original="Custom" Replace="Пользовательский"/>
+<Translation Original="Tornado" Replace="Торнадо"/>
+<Translation Original="Black Hole" Replace="Чёрная дыра"/>
+<Translation Original="Options" Replace="Опции"/>
+<Translation Original="Attraction Settings" Replace="Притягивать:"/>
+<Translation Original="Interior" Replace="Интерьер"/>
+<Translation Original="Files" Replace="Файлы"/>
+<Translation Original="Stations" Replace="Радио станции"/>
+<Translation Original="Current Color" Replace="Настройка цвета"/>
+<Translation Original="Select Camera" Replace="Выберите камеру"/>
+<Translation Original="Hand Trails" Replace="Следы от рук"/>
+<Translation Original="Dev" Replace="Для разработчиков"/>
+<Translation Original="Currently Running" Replace="Запущенные скрипты"/>
+<Translation Original="All Achievements" Replace="Все достижения"/>
+<Translation Original="Drop Money" Replace="Сброс денег"/>
+<Translation Original="Checklist" Replace="Просмотр заданий"/>
+<Translation Original="Customize" Replace="Персонализация"/>
+<Translation Original="Position" Replace="Позиция"/>
+<Translation Original="Registered Hotkeys" Replace="Зарегестрированнные клавиши"/>
+<Translation Original="Pools" Replace="Игровой Pool"/>
+<Translation Original="Environment" Replace="Прогноз погоды"/>
+<Translation Original="Player Stats" Replace="Статистика персонажа"/>
+<Translation Original="Big Thanks to" Replace="Большое спасибо"/>
+<Translation Original="Libraries used" Replace="Используемые библиотеки"/>
+<Translation Original="<FONT FACE='$gtacash'>~r~_____~s~ Default Controls~r~ _____~s~</FONT>" Replace="<FONT FACE='$gtacash'>~r~_____~s~ Стандартное управление~r~ _____~s~</FONT>"/>
+
+Далее можно продолжить перевод...
+
+<Translation Original="Текст оригинал" Replace="Текст перевода"/>
+
+</Table>
